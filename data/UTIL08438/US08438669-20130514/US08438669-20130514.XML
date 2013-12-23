@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v44-2013-05-16.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.4 2013-05-16" file="US08438669-20130514.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20130524" date-publ="20130514">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>08438669</doc-number>
+<kind>B2</kind>
+<date>20130514</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>13111461</doc-number>
+<date>20110519</date>
+</document-id>
+</application-reference>
+<us-application-series-code>13</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>83</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>015</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2456</main-classification>
+<further-classification>  2455</further-classification>
+<further-classification>  2 22</further-classification>
+<further-classification>  2 24</further-classification>
+<further-classification>  2267</further-classification>
+</classification-national>
+<invention-title id="d2e55">Apparel incorporating a protective element</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3119904</doc-number>
+<kind>A</kind>
+<name>Anson</name>
+<date>19640100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3772704</doc-number>
+<kind>A</kind>
+<name>Carbonneau</name>
+<date>19731100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3991420</doc-number>
+<kind>A</kind>
+<name>Savarino</name>
+<date>19761100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2462</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4441211</doc-number>
+<kind>A</kind>
+<name>Donzis</name>
+<date>19840400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4580297</doc-number>
+<kind>A</kind>
+<name>Maejima</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4599747</doc-number>
+<kind>A</kind>
+<name>Robinson</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2461</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4688269</doc-number>
+<kind>A</kind>
+<name>Maeshima</name>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4982447</doc-number>
+<kind>A</kind>
+<name>Henson</name>
+<date>19910100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4985931</doc-number>
+<kind>A</kind>
+<name>Wingo</name>
+<date>19910100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5014354</doc-number>
+<kind>A</kind>
+<name>Dumont</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5029341</doc-number>
+<kind>A</kind>
+<name>Wingo, Jr.</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5052052</doc-number>
+<kind>A</kind>
+<name>Gilford et al.</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2467</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5067175</doc-number>
+<kind>A</kind>
+<name>Gold</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 16</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5168576</doc-number>
+<kind>A</kind>
+<name>Krent et al.</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5220691</doc-number>
+<kind>A</kind>
+<name>Wiegers</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 24</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5337418</doc-number>
+<kind>A</kind>
+<name>Kato et al.</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5373584</doc-number>
+<kind>A</kind>
+<name>Parcells, III</name>
+<date>19941200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5423087</doc-number>
+<kind>A</kind>
+<name>Krent et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2463</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5530966</doc-number>
+<kind>A</kind>
+<name>West</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2462</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5621914</doc-number>
+<kind>A</kind>
+<name>Ramone et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2463</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5689836</doc-number>
+<kind>A</kind>
+<name>Fee et al.</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5729832</doc-number>
+<kind>A</kind>
+<name>Grilliot et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5940888</doc-number>
+<kind>A</kind>
+<name>Sher</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5948621</doc-number>
+<kind>A</kind>
+<name>Turner et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435  611</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6205583</doc-number>
+<kind>B1</kind>
+<name>Beland</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 16</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6295654</doc-number>
+<kind>B1</kind>
+<name>Farrell</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6401366</doc-number>
+<kind>B2</kind>
+<name>Foxen et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 91</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6510560</doc-number>
+<kind>B1</kind>
+<name>Ugolnik</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2455</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6519782</doc-number>
+<kind>B2</kind>
+<name>Collins et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2463</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6654960</doc-number>
+<kind>B2</kind>
+<name>Cho</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6743325</doc-number>
+<kind>B1</kind>
+<name>Taylor</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6817039</doc-number>
+<kind>B1</kind>
+<name>Grilliot et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2413</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>7114189</doc-number>
+<kind>B1</kind>
+<name>Kleinert</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>7188370</doc-number>
+<kind>B2</kind>
+<name>Bevier</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>7316083</doc-number>
+<kind>B2</kind>
+<name>Labonte</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36115</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>7350240</doc-number>
+<kind>B2</kind>
+<name>LaGrone</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 51</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>7506384</doc-number>
+<kind>B2</kind>
+<name>Ide et al.</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>7512996</doc-number>
+<kind>B2</kind>
+<name>Yoo et al.</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2455</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>7707658</doc-number>
+<kind>B2</kind>
+<name>Culhane</name>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2227</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>7743429</doc-number>
+<kind>B2</kind>
+<name>Bevier</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>7832017</doc-number>
+<kind>B2</kind>
+<name>Nascimento et al.</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>8095996</doc-number>
+<kind>B2</kind>
+<name>Turner</name>
+<date>20120100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>2004/0229763</doc-number>
+<kind>A1</kind>
+<name>Hutton et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>510220</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>2005/0167029</doc-number>
+<kind>A1</kind>
+<name>Rapaport et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>156145</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>2005/0246812</doc-number>
+<kind>A1</kind>
+<name>Bevier</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>2006/0260026</doc-number>
+<kind>A1</kind>
+<name>Doria et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2414</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>2007/0000005</doc-number>
+<kind>A1</kind>
+<name>Wang</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>2007/0124843</doc-number>
+<kind>A1</kind>
+<name>Bevier</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>2008/0178360</doc-number>
+<kind>A1</kind>
+<name>Nascimento et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 22</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>2008/0178361</doc-number>
+<kind>A1</kind>
+<name>Yoo et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 24</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>2008/0264557</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>2008/0290556</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20081100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>2009/0070911</doc-number>
+<kind>A1</kind>
+<name>Chang</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>2009/0152774</doc-number>
+<kind>A1</kind>
+<name>Hensley et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>264524</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>2009/0288312</doc-number>
+<kind>A1</kind>
+<name>Dua</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 29</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>2009/0288313</doc-number>
+<kind>A1</kind>
+<name>Rapaport et al.</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 29</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>2010/0024089</doc-number>
+<kind>A1</kind>
+<name>Turner</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>2010/0024100</doc-number>
+<kind>A1</kind>
+<name>Sokolowski et al.</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2455</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>2010/0024101</doc-number>
+<kind>A1</kind>
+<name>Berner et al.</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2455</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>2010/0129573</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>2010/0193117</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>2010/0199406</doc-number>
+<kind>A1</kind>
+<name>Dua et al.</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2115</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>2010/0205716</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>2010/0205722</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>2010/0206472</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>2010/0319097</doc-number>
+<kind>A1</kind>
+<name>Turner</name>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00067">
+<document-id>
+<country>EP</country>
+<doc-number>0254751</doc-number>
+<date>19880200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00068">
+<othercit>International Search Report and Written Opinion in PCT Application No. PCT/US2012/038174, mailed on Sep. 26, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>29</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2  2</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 16</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2267</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2268</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2243 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2243 A</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2DIG 1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 45</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>128 89 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>128156</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>128157</main-classification>
+</classification-national>
+<classification-cpc-text>A61B 8/0858</classification-cpc-text>
+<classification-cpc-text>A61B 19/26</classification-cpc-text>
+<classification-cpc-combination-text>A61B 8/4281</classification-cpc-combination-text>
+<classification-cpc-combination-text>A61B 2019/5276</classification-cpc-combination-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>40</number-of-drawing-sheets>
+<number-of-figures>48</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12490001</doc-number>
+<date>20090623</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>8095996</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>13111461</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20110277226</doc-number>
+<kind>A1</kind>
+<date>20111117</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Turner</last-name>
+<first-name>David</first-name>
+<address>
+<city>Portland</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Turner</last-name>
+<first-name>David</first-name>
+<address>
+<city>Portland</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Plumsea Law Group, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>NIKE, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Muromoto, Jr.</last-name>
+<first-name>Bobby</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Protective components may include a plate element and a cushioning element that are secured together with a hook-and-loop fastening system. The cushioning element may include a pair of material layers and a plurality of pads located between the material layers. The plate element may include a polymer material and the pads may include a polymer foam material, with the polymer material of the plate element having greater rigidity and density than the polymer foam material of the pads.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="145.03mm" wi="159.09mm" file="US08438669-20130514-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="233.93mm" wi="123.70mm" file="US08438669-20130514-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="235.20mm" wi="165.35mm" file="US08438669-20130514-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="180.09mm" wi="155.11mm" file="US08438669-20130514-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="174.33mm" wi="108.97mm" file="US08438669-20130514-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="176.87mm" wi="114.05mm" file="US08438669-20130514-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="178.14mm" wi="146.13mm" file="US08438669-20130514-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="246.04mm" wi="144.19mm" orientation="landscape" file="US08438669-20130514-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="158.24mm" wi="142.92mm" file="US08438669-20130514-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="152.48mm" wi="167.22mm" file="US08438669-20130514-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="149.35mm" wi="124.97mm" file="US08438669-20130514-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="165.95mm" wi="123.70mm" file="US08438669-20130514-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="155.11mm" wi="146.13mm" file="US08438669-20130514-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="127.51mm" wi="195.41mm" file="US08438669-20130514-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="239.01mm" wi="191.01mm" file="US08438669-20130514-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="186.52mm" wi="170.43mm" file="US08438669-20130514-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="178.82mm" wi="178.82mm" file="US08438669-20130514-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="240.96mm" wi="191.01mm" file="US08438669-20130514-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="243.50mm" wi="182.03mm" file="US08438669-20130514-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="246.72mm" wi="185.84mm" file="US08438669-20130514-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="244.77mm" wi="188.38mm" file="US08438669-20130514-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="236.47mm" wi="199.90mm" file="US08438669-20130514-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="205.74mm" wi="187.11mm" file="US08438669-20130514-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="211.50mm" wi="178.82mm" file="US08438669-20130514-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="176.19mm" wi="151.89mm" file="US08438669-20130514-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="176.19mm" wi="150.62mm" file="US08438669-20130514-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="178.14mm" wi="153.84mm" file="US08438669-20130514-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="171.11mm" wi="164.68mm" file="US08438669-20130514-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="177.55mm" wi="146.13mm" file="US08438669-20130514-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="215.98mm" wi="181.36mm" file="US08438669-20130514-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="231.99mm" wi="143.51mm" file="US08438669-20130514-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="229.45mm" wi="135.89mm" file="US08438669-20130514-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="242.91mm" wi="168.57mm" orientation="landscape" file="US08438669-20130514-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="233.93mm" wi="167.22mm" orientation="landscape" file="US08438669-20130514-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="235.80mm" wi="191.01mm" file="US08438669-20130514-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="246.04mm" wi="186.52mm" file="US08438669-20130514-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="240.96mm" wi="184.57mm" file="US08438669-20130514-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="242.23mm" wi="138.43mm" file="US08438669-20130514-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="219.20mm" wi="185.17mm" orientation="landscape" file="US08438669-20130514-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="230.72mm" wi="105.07mm" file="US08438669-20130514-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="73.66mm" wi="155.11mm" file="US08438669-20130514-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This U.S. patent application is a continuation-in-part application and claims priority under 35 U.S.C. &#xa7;120 to U.S. patent application Ser. No. 12/490,001, which was filed in the U.S. Patent and Trademark Office on 23 Jun. 2009 and entitled Apparel Incorporating A Protective Element, such prior U.S. patent application being entirely incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Articles of athletic apparel commonly incorporate elements that cushion or protect an athlete from contact with other athletes, equipment, or the ground. Examples of these elements include (a) foam components that impart cushioning or otherwise attenuate impact forces and (b) rigid or semi-rigid plates that distribute impact forces. Many articles of athletic apparel combine foam components and plates to protect to the athlete by both attenuating and distributing impact forces. That is, the combination of a foam component and a plate may impart enhanced protection by both attenuating and distributing impact forces. As an example, shoulder pads and thigh pads worn under uniforms in American football include (a) foam components located adjacent to the athlete (i.e., in contact with the athlete or apparel worn adjacent to the skin of the athlete) and (b) plates secured to the foam components and located opposite the athlete. As another example, helmets utilized during American football, bicycling, hockey, skiing, snowboarding, and skateboarding also effectively combine polymer foam components with an external plate (i.e., the exterior of the helmet). Additionally, shin guards worn for soccer and leg guards worn for baseball include polymer foam components and an external plate.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">Various protective elements that may be utilized in articles of protective apparel are disclosed below. The apparel may include a plate element and a cushioning element. The plate element has a first part of a hook-and-loop fastening system, and the cushioning element incorporates a second part of the hook-and-loop fastening system. Moreover, the cushioning element includes (a) a first material layer and a second material layer and (b) a plurality of compressible pads located between the first material layer and the second material layer. The first part of the hook-and-loop fastening system is joinable to the second part of the hook-and-loop fastening system to secure the plate element to the cushioning element.</p>
+<p id="p-0005" num="0004">A method for wearing an article of apparel during an athletic training session and an athletic competition is also disclosed below. The method includes wearing a cushioning element without a plate element during the athletic training session. Additionally, the method includes wearing the cushioning element and the plate element during the athletic competition.</p>
+<p id="p-0006" num="0005">The advantages and features of novelty characterizing aspects of the invention are pointed out with particularity in the appended claims. To gain an improved understanding of the advantages and features of novelty, however, reference may be made to the following descriptive matter and accompanying figures that describe and illustrate various configurations and concepts related to the invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">FIGURE DESCRIPTIONS</heading>
+<p id="p-0007" num="0006">The foregoing Summary and the following Detailed Description will be better understood when read in conjunction with the accompanying figures.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a front elevational view of an individual wearing an apparel system having an outer garment and an inner garment.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded front elevational view of the individual wearing the apparel system.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 3</figref> is a front elevational view of the outer garment.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIGS. 4 and 5</figref> are side elevational views of the outer garment.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 6</figref> is a rear elevational view of the outer garment.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIGS. 7A and 7B</figref> are cross-sectional views of the outer garment, as defined by section lines <b>7</b>A and <b>7</b>B in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 8</figref> is a front elevational view of the inner garment.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 9</figref> is an exploded front elevational view of the inner garment.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIGS. 10 and 11</figref> are side elevational views of the inner garment.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 12</figref> is a rear elevational view of the inner garment.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 13</figref> is a perspective view of a protective component of the inner garment.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 14</figref> is an exploded perspective view of the protective component.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 15</figref> is a top plan view of the protective component.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIGS. 16A and 16B</figref> are cross-sectional views of the protective component, as defined by section lines <b>16</b>A and <b>16</b>B in <figref idref="DRAWINGS">FIG. 15</figref>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. 17A and 17B</figref> are exploded cross-sectional views respectively corresponding with the cross-sectional views of <figref idref="DRAWINGS">FIGS. 16A and 16B</figref>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. 18A-18F</figref> are exploded perspective views corresponding with <figref idref="DRAWINGS">FIG. 14</figref> and depicting further configurations of the protective component.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIGS. 19A-19E</figref> are top plan views corresponding with <figref idref="DRAWINGS">FIG. 15</figref> and depicting further configurations of the protective component.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. 20A-20C</figref> are cross-sectional views corresponding with <figref idref="DRAWINGS">FIG. 16A</figref> and depicting further configurations of the protective component.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 21</figref> is a front elevational view of the individual wearing an article of protective apparel having a configuration of shoulder pads and including a plate element and a cushioning element.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 22</figref> is a front elevational view of the individual wearing the cushioning element.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 23</figref> is a front elevational view of the article of protective apparel.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 24</figref> is a rear elevational view of the article of protective apparel.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 25</figref> is an exploded front elevational view of the article of protective apparel.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. 26A and 26B</figref> are cross-sectional views of the article of protective apparel, as defined by section lines <b>26</b>A and <b>26</b>B in <figref idref="DRAWINGS">FIG. 23</figref>.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 27</figref> is a front elevational view of the cushioning element.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 28</figref> is a plan view of the cushioning element in a flat configuration.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 29</figref> is a front elevational view of the individual wearing another configuration of the article of protective apparel.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 30</figref> is a front elevational view of another configuration of the cushioning element.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 31</figref> is a cross-sectional view corresponding with <figref idref="DRAWINGS">FIG. 26A</figref> and depicting the article of protective apparel as incorporating the cushioning element from <figref idref="DRAWINGS">FIG. 30</figref>.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 32</figref> is a front elevational view of an article of protective apparel having a configuration of a leg guard.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 33</figref> is a cross-sectional view of the article of protective apparel, as defined by section line <b>33</b> in <figref idref="DRAWINGS">FIG. 32</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0039" num="0038">The following discussion and accompanying figures disclose various apparel systems, articles of apparel, and protective components that may be incorporated into the apparel systems or articles of apparel.</p>
+<p id="p-0040" num="0039">Apparel System</p>
+<p id="p-0041" num="0040">With reference to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, an individual <b>10</b> is depicted as wearing an apparel system <b>100</b> that includes an outer garment <b>200</b> and an inner garment <b>300</b>. Each of garments <b>200</b> and <b>300</b> exhibit the general configuration of a pants-type garment, which includes any of a plurality of articles of apparel that cover a portion of a pelvic area of individual <b>10</b> and may extend over legs of individual <b>10</b>. Although garments <b>200</b> and <b>300</b> are each depicted as being pairs of shorts, various concepts disclosed below for garments <b>200</b> and <b>300</b> may also be applied to other pants-type garments, including pants, briefs, jeans, and underwear. The various concepts disclosed below for garments <b>200</b> and <b>300</b> may also be applied to shirt-type garments, which cover a portion of a torso area of individual <b>10</b> and may extend over arms of individual <b>10</b>. Examples of shirt-type garments include long-sleeved shirts, short-sleeved shirts, tank tops, undershirts, jackets, and coats. In some configurations, articles of apparel incorporating concepts disclosed below for garments <b>200</b> and <b>300</b> may be combinations of shirt-type garments and pants-type garments, including bodysuits, leotards, unitards, and wetsuits. In addition, articles of apparel incorporating concepts disclosed below for garments <b>200</b> and <b>300</b> may have configurations that cover other areas of individual <b>10</b>, such as hats, helmets, arm and leg wraps, gloves, socks, and footwear, for example.</p>
+<p id="p-0042" num="0041">Although apparel system <b>100</b> may be worn alone or exposed, apparel system <b>100</b> may also be worn in combination with other articles of apparel (e.g., under or over other articles of apparel). Apparel system <b>100</b> may also be worn in combination with other pieces of equipment (e.g., athletic or protective equipment). In general, outer garment <b>200</b> is worn over inner garment <b>300</b>, thereby positioning outer garment <b>200</b> to be exterior of inner garment <b>300</b>. Whereas inner garment <b>300</b> may be worn in contact with and to cover individual <b>10</b>, outer garment <b>200</b> may be worn in contact with and to cover inner garment <b>300</b>. That is, inner garment <b>300</b> is generally positioned between individual <b>10</b> and outer garment <b>200</b>. Depending upon various factors (e.g., sport, activity, weather, preferences), the other articles of apparel or pieces of equipment may be worn (a) between inner garment <b>300</b> and individual <b>10</b>, (b) between garments <b>200</b> and <b>300</b>, or (c) exterior of outer garment <b>200</b>. Accordingly, the configuration of apparel system <b>100</b>, including each of the individual garments <b>200</b> and <b>300</b>, and the manner in which apparel system <b>100</b> is worn by individual <b>10</b> may vary significantly.</p>
+<p id="p-0043" num="0042">Apparel system <b>100</b> incorporates various cover components <b>210</b> and protective components <b>305</b>. More particularly, outer garment <b>200</b> includes cover components <b>210</b>, and inner garment <b>300</b> includes protective components <b>305</b>. Although cover components <b>210</b> and protective components <b>305</b> may each be utilized individually to impart padding, cushioning, or otherwise distribute or attenuate impact forces, thereby imparting protection to individual <b>10</b>, components <b>210</b> and <b>305</b> may also operate cooperatively to impart protection to individual <b>10</b>. For example, some cover components <b>210</b> may overlap, extend over, or otherwise coincide with the positions of some protective components <b>305</b>. In areas where cover components <b>210</b> extend over protective components <b>305</b>, both elements <b>210</b> and <b>305</b> may impart protection to individual <b>10</b>. Additional details concerning garments <b>200</b> and <b>300</b>, as well as components <b>210</b> and <b>305</b>, will be discussed below.</p>
+<p id="p-0044" num="0043">Outer Garment Configuration</p>
+<p id="p-0045" num="0044">Outer garment <b>200</b>, which incorporates cover components <b>210</b>, is depicted individually in <figref idref="DRAWINGS">FIGS. 3-6</figref> as including a pelvic region <b>201</b> and a pair of leg regions <b>202</b> that extend outward and downward from pelvic region <b>201</b>. Pelvic region <b>201</b> corresponds with the pelvic area of individual <b>10</b> and extends over at least a portion of the pelvic area when worn. An upper portion of pelvic region <b>201</b> defines a waist opening <b>203</b> that extends around a waist of individual <b>10</b> when outer garment <b>200</b> is worn. Leg regions <b>202</b> correspond with a right leg and a left leg of individual <b>10</b> and cover at least a portion of the right leg and the left leg when worn. Lower portions of leg regions <b>202</b> each define a thigh opening <b>204</b> that extends around a thigh of individual <b>10</b> when outer garment <b>200</b> is worn.</p>
+<p id="p-0046" num="0045">Cover components <b>210</b> are incorporated into various areas of outer garment <b>200</b> to impart padding, cushioning, or otherwise attenuate impact forces, thereby imparting protection to individual <b>10</b>. Two lower cover components <b>210</b> are located in a front area of leg regions <b>202</b> and adjacent to thigh openings <b>204</b>, and two upper cover components <b>210</b> are also located in the front area of leg regions <b>202</b> and extend upward and into lower areas of pelvic region <b>201</b>. As discussed above, cover components <b>210</b> may overlap, extend over, or otherwise coincide with the positions of some protective components <b>305</b> of inner garment <b>300</b>. Whereas the upper cover components <b>210</b> coincide in location and extend over two of protective components <b>305</b>, the lower cover components <b>210</b> are positioned separate from protective components <b>305</b>. In this configuration, the upper cover components <b>210</b> and two of protective components <b>305</b> cooperatively impart protection to areas of individual <b>10</b>, while the lower cover components <b>210</b> individually impart protection to areas of individual <b>10</b>. In further configurations of apparel system <b>100</b> or outer garment <b>200</b>, cover components <b>210</b> may be positioned in various areas of outer garment <b>200</b>, including the sides or back of leg regions <b>202</b> or in pelvic region <b>201</b>, to protect specific portions (e.g., muscles, bones, joints, impact areas) of individual <b>10</b>. Additionally, the quantity, shapes, sizes, and other properties of cover components <b>210</b>, as well as the materials utilized in cover components <b>210</b>, may vary significantly to provide a particular level of protection to the specific portions of individual <b>10</b>.</p>
+<p id="p-0047" num="0046">One of cover components <b>210</b> is depicted in the cross-sectional views of <figref idref="DRAWINGS">FIGS. 7A and 7B</figref> as including a first material layer <b>211</b>, a second material layer <b>212</b>, and a pad <b>213</b>. In general, pad <b>213</b> is positioned between and secured to first material layer <b>211</b> and second material layer <b>212</b>. Material layers <b>211</b> and <b>212</b> cooperatively form an outer surface or covering for protective elements <b>210</b>. That is, material layers <b>211</b> and <b>212</b> cooperatively form a pocket or void, in which pad <b>213</b> is located. Whereas second material layer <b>212</b> is depicted as having a generally planar configuration, first material layer <b>211</b> extends over pad <b>213</b> and also along sides of pad <b>213</b> to join with second material layer <b>212</b> (e.g., through stitching, an adhesive, or thermal bonding). Although cover component <b>210</b> may be incorporated into outer garment <b>200</b> in a variety of ways, first material layer <b>211</b> may be positioned exterior of second material layer <b>212</b>. That is, first material layer <b>211</b> may form a portion of an exterior surface of outer garment <b>200</b>, whereas second material layer <b>212</b> may form a portion of an interior surface of outer garment <b>200</b>. An advantage to this configuration is that cover component <b>210</b> protrudes outward from outer garment <b>200</b>, rather than protruding inward and toward individual <b>10</b>. In some configurations of outer garment <b>200</b>, however, cover component <b>210</b> may protrude inward.</p>
+<p id="p-0048" num="0047">A thickness of pad <b>213</b> may vary depending upon various factors, including the type of material utilized for pad <b>213</b> and the desired level of protection. In general, however, the thickness of pad <b>213</b> may range from one to fifty millimeters or more when formed from a polymer foam material. Although pad <b>213</b> may exhibit a constant thickness between material layers <b>211</b> and <b>212</b>, the thickness may vary across the width of pad <b>213</b>. For example, edges of pad <b>213</b> may be thinner than central areas of pad <b>213</b>. Various apertures, gaps, and indentations may also be formed in pad <b>213</b> to enhance flexibility and breathability.</p>
+<p id="p-0049" num="0048">A variety of materials may be utilized for first material layer <b>211</b> and second material layer <b>212</b>, including various textiles, polymer sheets, leather, or synthetic leather, for example. Combinations of these materials (e.g., a polymer sheet bonded to a textile) may also be utilized for material layers <b>211</b> and <b>212</b>. Although material layers <b>211</b> and <b>212</b> may be formed from the same material, each of material layers <b>211</b> and <b>212</b> may also be formed from different materials. With regard to textiles, material layers <b>211</b> and <b>212</b> may be formed from knitted, woven, or non-woven textile elements that include rayon, nylon, polyester, polyacrylic, cotton, wool, or silk, for example. Moreover, the textiles may be non-stretch, may exhibit one-directional stretch, or may exhibit multi-directional stretch. Accordingly, a variety of materials are suitable for first material layer <b>211</b> and second material layer <b>212</b>.</p>
+<p id="p-0050" num="0049">Pads <b>213</b> may also be formed from a variety of materials, including various polymer foam materials that return to an original shape after being compressed. As an alternative to polymer foam materials, pads <b>213</b> may also be formed as fluid-filled chambers. Examples of suitable polymer foam materials for pads <b>213</b> include polyurethane, ethylvinylacetate, polyester, polypropylene, and polyethylene foams. Moreover, both thermoplastic and thermoset polymer foam materials may be utilized. In some configurations of cover components <b>210</b>, pads <b>213</b> may be formed from a polymer foam material with a varying density, or solid polymer or rubber materials may be utilized. Also, different pads <b>213</b> may be formed from different materials, or may be formed from similar materials with different densities. Additional articles of apparel having features that may be utilized in outer apparel <b>200</b> or for pads <b>213</b> are disclosed in U.S. patent application Ser. No. 11/620,950, filed 8 Jan. 2007 and entitled Athletic Garment With Articulated Body Protective Underlayer, which is entirely incorporated herein by reference.</p>
+<p id="p-0051" num="0050">The polymer foam materials forming pads <b>213</b> of cover components <b>210</b> attenuate impact forces to provide protection. When incorporated into apparel system <b>100</b> and outer garment <b>200</b>, the polymer foam materials of pads <b>213</b> may compress to protect a wearer from contact with other athletes, equipment, or the ground. Accordingly, cover components <b>210</b> may be utilized to provide protection to areas of individual <b>10</b> that are covered by cover component <b>210</b>. As discussed above, cover components <b>210</b> may overlap, extend over, or otherwise coincide with the positions of some protective components <b>305</b> of inner garment <b>300</b>. In this position, cover components <b>210</b> may be utilized to provide protection to other athletes or individuals from relatively hard or rigid materials (e.g., a plate) incorporated into protective components <b>305</b>.</p>
+<p id="p-0052" num="0051">Inner Garment Configuration</p>
+<p id="p-0053" num="0052">Inner garment <b>300</b>, which incorporates protective components <b>305</b>, is depicted individually in <figref idref="DRAWINGS">FIGS. 8-12</figref> as including a pelvic region <b>301</b> and a pair of leg regions <b>302</b> that extend outward or downward from pelvic region <b>301</b>. Pelvic region <b>301</b> corresponds with the pelvic area of individual <b>10</b> and extends over at least a portion of the pelvic area when worn. Pelvic region <b>301</b> also corresponds with pelvic region <b>201</b> of outer garment <b>200</b> and is generally located between pelvic region <b>201</b> and individual <b>10</b> when worn. An upper portion of pelvic region <b>301</b> defines a waist opening <b>303</b> that extends around a waist of individual <b>10</b> when outer garment <b>300</b> is worn. Leg regions <b>302</b> correspond with a right leg and a left leg of individual <b>10</b> and cover at least a portion of the right leg and the left leg when worn. Leg regions <b>302</b> also correspond with leg regions <b>202</b> of outer garment <b>200</b> and are generally located between leg regions <b>202</b> and individual <b>10</b> when worn. Lower portions of leg regions <b>302</b> each define a thigh opening <b>304</b> that extends around a thigh of individual <b>10</b> when inner garment <b>300</b> is worn.</p>
+<p id="p-0054" num="0053">Protective components <b>305</b> are incorporated into various areas of inner garment <b>300</b> to impart padding, cushioning, or otherwise attenuate impact forces, thereby imparting protection to individual <b>10</b>. More particularly, two of protective components <b>305</b> are located in a front area of leg regions <b>302</b>, two of protective components <b>305</b> are located on sides of pelvic region <b>301</b>, and one of protective components <b>305</b> is in a back of pelvic region <b>301</b>. In further configurations of apparel system <b>100</b> or inner garment <b>300</b>, protective components <b>305</b> may be positioned in various areas of inner garment <b>300</b>, including the sides or back of leg regions <b>302</b> or other areas of pelvic region <b>301</b>, to protect specific portions (e.g., muscles, bones, joints, impact areas) of individual <b>10</b>. Additionally, the quantity, shapes, sizes, and other properties of protective components <b>305</b>, as well as the materials utilized in protective components <b>305</b>, may vary significantly to provide a particular level of protection to the specific portions of individual <b>10</b>.</p>
+<p id="p-0055" num="0054">As discussed above, cover components <b>210</b> of outer garment <b>200</b> may overlap, extend over, or otherwise coincide with the positions of some protective components <b>305</b>. Although outer garment <b>200</b> may cover substantially all of inner garment <b>300</b> and the various protective components <b>305</b>, only the upper cover components <b>210</b> coincide in location and extend over the two protective components <b>305</b> in the front area of leg regions <b>302</b>. In further configurations of apparel system <b>100</b>, however, additional cover components <b>210</b> may extend over other protective components <b>305</b>.</p>
+<p id="p-0056" num="0055">Protective Element Configurations</p>
+<p id="p-0057" num="0056">An example configuration for one of protective components <b>305</b> is depicted in <figref idref="DRAWINGS">FIGS. 13-17B</figref> as including a cushioning element <b>310</b> and a plate element <b>315</b>. Cushioning element <b>310</b> includes a first material layer <b>311</b>, a second material layer <b>312</b>, a plurality of pads <b>313</b>, a frame <b>314</b>, and a plate element <b>315</b>. In general, pads <b>313</b> and frame <b>314</b> are positioned between first material layer <b>311</b> and second material layer <b>312</b>. Although pads <b>313</b> are secured to first material layer <b>311</b> and second material layer <b>312</b>, frame <b>314</b> is unsecured to each of first material layer <b>311</b>, second material layer <b>312</b>, and pads <b>313</b>. Additionally, plate element <b>315</b> is located at an exterior of cushioning element <b>310</b> (i.e., located exterior of first material layer <b>311</b>). Although each cushioning element <b>310</b> in the front area of leg regions <b>302</b> incorporate one of plate elements <b>315</b>, further plates are absent from other cushioning elements <b>310</b>. In further configurations, additional plate elements <b>315</b> may be utilized in the other cushioning elements <b>310</b>.</p>
+<p id="p-0058" num="0057">First material layer <b>311</b> and second material layer <b>312</b> cooperatively form an outer surface or covering for cushioning element <b>310</b>, with plate element <b>315</b> being secured to the outer surface. That is, first material layer <b>311</b> and second material layer <b>312</b> cooperatively form a pocket or void, in which pads <b>313</b> and frame <b>314</b> are located. Whereas second material layer <b>312</b> is depicted as having a generally planar configuration, first material layer <b>311</b> extends over pads <b>313</b> and frame <b>314</b> and also along sides of pads <b>313</b> to join with second material layer <b>312</b> (e.g., through stitching, an adhesive, or thermal bonding). Although cushioning element <b>310</b> may be incorporated into inner garment <b>300</b> in a variety of ways, first material layer <b>311</b> may be positioned exterior of second material layer <b>312</b>. That is, first material layer <b>311</b> may form a portion of an exterior surface of inner garment <b>300</b>, whereas second material layer <b>312</b> may form a portion of an opposite interior surface of inner garment <b>300</b>. An advantage to this configuration is that cushioning element <b>310</b> protrudes outward from inner garment <b>300</b>, rather than protruding inward and toward individual <b>10</b>. In some configurations of inner garment <b>300</b>, however, cushioning element <b>310</b> may protrude inward. Any of the various materials discussed above for material layers <b>211</b> and <b>212</b> may be utilized for first material layer <b>311</b> and second material layer <b>312</b>.</p>
+<p id="p-0059" num="0058">Pads <b>313</b> are located between and secured to each of material layers <b>311</b> and <b>312</b>. Each of pads <b>313</b> has a first surface <b>321</b> secured to first material layer <b>311</b>, an opposite second surface <b>322</b> secured to second material layer <b>312</b>, and a side surface <b>323</b> that extends between surfaces <b>321</b> and <b>322</b>. Although the shapes of pads <b>313</b> may vary significantly, many of surfaces <b>321</b> and <b>322</b> are depicted as having an elliptical or generally elongate shape with rounded end areas, and side surface <b>323</b> extends in a generally straight fashion between surfaces <b>321</b> and <b>322</b>. Pads <b>313</b> are spaced evenly from each other and arranged in offset rows. Moreover, pads <b>313</b> are generally discrete elements that are spaced from each other, but may also be connected or formed as a one-piece unit. Given that cushioning element <b>310</b> is depicted as having a generally pentagonal configuration, various pads <b>313</b> around a perimeter of cushioning element <b>310</b> exhibit a truncated or partial configuration. Some of pads <b>313</b> also define apertures <b>324</b> that receive elements for securing plate element <b>315</b>, and these pad components may be larger than other pad components <b>315</b>. A variety of materials may be utilized for pads <b>313</b>, including any of the various materials discussed above for pad <b>213</b>, such as polymer foam materials and fluid-filled chambers.</p>
+<p id="p-0060" num="0059">Each of pads <b>313</b> are depicted as having the same thickness (i.e., distance between surfaces <b>321</b> and <b>322</b>), which may range from one to fifty millimeters or more when formed from a polymer foam material. As an alternative, pads <b>313</b> may exhibit varying thicknesses. For example, a group of pads <b>313</b> located in a central area of cushioning element <b>310</b> may exhibit a maximum thickness, a group of pads <b>313</b> located around the central area may exhibit a medium thickness, and a group of pads <b>313</b> located adjacent to a periphery of cushioning element <b>310</b> may exhibit a minimum thickness. A configuration of a cushioning element with varying thicknesses is disclosed in U.S. Provisional Patent Application Ser. No. 61/158,653, filed 9 Mar. 2009 and entitled Cushioning Elements For Apparel And Other Products, which is entirely incorporated herein by reference.</p>
+<p id="p-0061" num="0060">Frame <b>314</b> is located between each of material layers <b>311</b> and <b>312</b>. In contrast with pads <b>313</b>, frame <b>314</b> is unsecured to each of first material layer <b>311</b> and second material layer <b>312</b>, and frame <b>314</b> is also unsecured to pads <b>313</b>. This configuration permits frame <b>314</b> to float or otherwise move relative to first material layer <b>311</b>, second material layer <b>312</b>, and pads <b>313</b>. Frame <b>314</b> defines a plurality of apertures <b>325</b> having the general shape of pads <b>313</b>. Given this configuration, frame <b>314</b> extends around and between various pads <b>313</b>. In areas where frame <b>314</b> is present, the combination of pads <b>313</b> and frame <b>314</b> effectively forms a foam layer within cushioning element <b>310</b>. Although the dimensions of apertures <b>325</b> may substantially match the dimensions of pads <b>313</b>, frame <b>314</b> may also be formed such that a gap extends between edges of apertures <b>325</b> and side surfaces <b>233</b> of pads <b>313</b>. Any of the variety of materials discussed above as being suitable for pads <b>213</b> and <b>313</b> may also be utilized for frame <b>314</b>.</p>
+<p id="p-0062" num="0061">Frame <b>314</b> is depicted as being located in the central area of cushioning element <b>310</b>. As an alternative, frame <b>314</b> may extend (a) throughout cushioning element <b>310</b> and define apertures <b>325</b> that extend around all of pads <b>313</b>, (b) around other pads <b>313</b>, or (c) through other areas of cushioning element <b>310</b>. Additionally, frame <b>314</b> may extend to the periphery of cushioning element <b>310</b> in some areas, but not in other areas. Accordingly, the portions of cushioning element <b>310</b> into which frame <b>314</b> extends may vary significantly.</p>
+<p id="p-0063" num="0062">Referring to the cross-sectional views of <figref idref="DRAWINGS">FIGS. 16A and 16B</figref>, for example, frame <b>314</b> is depicted as exhibiting lesser thickness than each of pads <b>313</b>. An advantage of this configuration is that frame <b>314</b> may move relative to material layers <b>311</b> and <b>312</b>, thereby enhancing the flexibility of cushioning element <b>310</b>. As an example, frame <b>314</b> may have a thickness of approximately two millimeters in a configuration wherein the pads <b>313</b> exhibit a thickness of five millimeters. In other configurations, the thickness of frame <b>314</b> may range from one to fifty millimeters or more. Although frame <b>314</b> may exhibit lesser thickness than pads <b>313</b>, frame <b>314</b> may also be thicker than pads <b>313</b>.</p>
+<p id="p-0064" num="0063">A variety of methods may be utilized to manufacture cushioning element <b>310</b>. In general, the methods include bonding (e.g., adhesive or thermal bonding) each of pads <b>313</b> to material layers <b>311</b> and <b>312</b>. Examples of suitable manufacturing processes are disclosed in (a) U.S. patent application Ser. No. 12/755,579, which was filed in the U.S. Patent and Trademark Office on 7 Apr. 2010 and entitled Method Of Manufacturing Cushioning Elements For Apparel And Other Products; (b) U.S. patent application Ser. No. 13/035,570, which was filed in the U.S. Patent and Trademark Office on 25 Feb. 2011 and entitled Cushioning Elements For Apparel And Other Products And Methods Of Manufacturing The Cushioning Elements; and (c) U.S. patent application Ser. No. 13/035,592, which was filed in the U.S. Patent and Trademark Office on 25 Feb. 2011 and entitled Articles Of Apparel Incorporating Cushioning Elements And Methods Of Manufacturing The Articles Of Apparel, each of which are entirely incorporated herein by reference.</p>
+<p id="p-0065" num="0064">Plate element <b>315</b> is positioned exterior of material layers <b>311</b> and <b>312</b>, pads <b>313</b>, and frame <b>314</b>. Whereas pads <b>313</b> and frame <b>314</b> are located between material layers <b>311</b> and <b>312</b>, plate element <b>315</b> is located on an opposite side of first material layer <b>311</b> and forms a portion of an exterior surface of inner garment <b>300</b> and protective component <b>305</b>. As described in greater detail below, plate element <b>315</b> has a semi-rigid structure that distributes impact forces over pads <b>313</b> to impart protection to individual <b>10</b> or another wearer.</p>
+<p id="p-0066" num="0065">Various securing elements <b>326</b> are utilized to secure plate element <b>315</b> to cushioning element <b>310</b>. Securing elements <b>326</b> extend through apertures <b>327</b> in plate element <b>315</b> and also extend through corresponding apertures <b>324</b> in selected pads <b>313</b>, as well as holed in material layers <b>311</b> and <b>312</b>. Although securing elements <b>326</b> are depicted as having the general configuration of rivets, various snap-fit securing mechanisms, adhesive or thermal bonding, or stitching may be utilized to join plate element <b>315</b>. In some configurations, plate element <b>315</b> may also be secured with a hook-and-loop fastener that permits plate element <b>315</b> to be separated, repositioned, or replaced.</p>
+<p id="p-0067" num="0066">Plate element <b>315</b> has an overall curved configuration that generally conforms with a shape of individual <b>10</b>. Given that protective component <b>305</b> may be utilized to protect a thigh of individual <b>10</b>, plate element <b>315</b> may exhibit a curvature that corresponds with the thigh. Additionally, plate element <b>315</b> may include various ribs <b>328</b> that enhance rigidity. In further configurations, plate element <b>315</b> may have a variety of other features that enhance the comfort or protective properties of apparel system <b>100</b> or protective component <b>305</b>. For example, plate element <b>315</b> may define a plurality of apertures that enhance breathability or flexibility, plate element <b>315</b> may be formed from multiple materials that vary the rigidity or flexibility in different areas, or plate element <b>315</b> may have a varying thickness that also vary the rigidity or flexibility in different areas.</p>
+<p id="p-0068" num="0067">Plate element <b>315</b> is depicted as having lesser area than first material layer <b>211</b>. In this configuration, some of pads <b>313</b> are located adjacent to plate element <b>315</b> (i.e., covered by plate element <b>315</b>), and some of pads <b>313</b> are located around a periphery of plate element <b>315</b>. That is, plate element <b>315</b> only covers a central portion of pads <b>313</b>, but effectively exposes peripheral portions of pads <b>313</b>. Forming plate element <b>315</b> in this manner imparts a varying thicknesses to cushioning element <b>310</b>. An advantage of three varying thicknesses relates to the comfort of apparel system <b>100</b> and the integration of inner garment <b>300</b> with other articles of apparel (e.g., outer garment <b>200</b>) or other articles of equipment. The lesser thickness of the periphery of cushioning element <b>310</b> imparts a lower profile at the periphery. Given the lower profile, portions of cushioning element <b>310</b> at the periphery may be less noticeable to individual <b>10</b> and may interfere less with the other articles of apparel or equipment. Moreover, plate element <b>315</b> may have a conventional size, but the protective properties of pads <b>313</b> may extend beyond plate element <b>315</b> to cover further and larger areas of individual <b>10</b>.</p>
+<p id="p-0069" num="0068">As a comparison with the compressible polymer foam material forming pads <b>313</b> and frame <b>314</b>, plate element <b>315</b> may be formed from a semi-rigid or rigid polymer material with greater stiffness and density than the polymer foam material. As another comparison, whereas pads <b>313</b> and frame <b>314</b> may be formed from a polymer foam material, plate element <b>315</b> may include a non-foamed polymer material. Examples of suitable polymer materials for plate element <b>315</b> include polyethylene, polypropylene, acrylonitrile butadiene styrene, polyester, thermoset urethane, thermoplastic urethane, polyether block amide, polybutylene terephthalate various nylon formulations, or blends of these materials. Composite materials may also be formed by incorporating glass fibers, aramid fibers, or carbon fibers, for example, into the polymer materials discussed above in order to enhance the strength and rigidity of plate element <b>315</b>. In some configurations, plate element <b>315</b> may also be formed from metal materials (e.g., aluminum, titanium, steel) or may include metal elements that enhance the strength and rigidity of plate element <b>315</b>. Accordingly, a variety of materials may be utilized for plate element <b>315</b>.</p>
+<p id="p-0070" num="0069">Cushioning element <b>310</b> and plate element <b>315</b> cooperatively impart protection to individual <b>10</b>. An impact force contacting plate element <b>315</b>, for example, is distributed over many of pad components <b>314</b>, which cushion or otherwise attenuate the impact force. That is, the rigid or semi-rigid polymer material forming plate element <b>315</b> distributes impact forces, and the compressible polymer foam materials of pads <b>313</b> impart cushioning or otherwise attenuate the impact forces. When incorporated into apparel system <b>100</b> cover components <b>210</b> from outer garment <b>200</b> impart further attenuation of the impact forces and may assist with protecting other individuals.</p>
+<p id="p-0071" num="0070">In addition to distributing and attenuating impact forces, protective component <b>305</b> has an advantage of simultaneously providing one or more of breathability, a relatively low overall mass, and launderability. When used for athletic activities, individual <b>10</b> may perspire and generate excess heat. By utilizing a permeable textile for material layers <b>311</b> and <b>312</b> and also forming gaps between adjacent pads <b>313</b> and areas between pads <b>313</b> and frame <b>314</b>, areas for air to enter the apparel and for moisture to exit the apparel are formed through cushioning element <b>310</b>. More particularly, air and moisture may pass through material layers <b>311</b> and <b>312</b>, between pads <b>313</b> in areas where frame <b>314</b> is absent, and between pads <b>313</b> and frame <b>314</b> in areas where frame <b>314</b> is present to impart breathability to areas of the apparel having cushioning element <b>310</b>. Moreover, the materials and structure discussed above for cushioning element <b>310</b> impart a low overall mass to cushioning element <b>310</b>. Furthermore, the materials and structure discussed above for cushioning element <b>310</b> permits cushioning element <b>310</b> to be laundered without significant shrinkage or warping, even when temperatures associated with commercial laundering processes are utilized. Accordingly, cushioning element <b>310</b> may simultaneously provide impact force distribution, impact force attenuation, breathability, a relatively low overall mass, and launderability to apparel system <b>100</b>.</p>
+<p id="p-0072" num="0071">The combination of garments <b>200</b> and <b>300</b> effectively form a layered structure that includes material layers <b>211</b>, <b>212</b>, <b>311</b>, and <b>312</b>; pads <b>213</b> and <b>313</b>; frame <b>314</b>; and plate element <b>315</b>. The layered structure has a configuration wherein plate elements <b>315</b> are located between polymer foam materials. More particularly, plate elements <b>315</b> are located between each of pads <b>213</b> and <b>313</b>, as well as frame <b>314</b>. As discussed above, cover components <b>210</b> may overlap, extend over, or otherwise coincide with the positions of some cushioning elements <b>310</b> of inner garment <b>300</b>, and cover components <b>210</b> may be utilized to provide protection to other athletes or individuals from the relatively hard or rigid materials of cushioning elements <b>310</b>. In apparel system <b>100</b>, cover components <b>210</b> overlap only the cushioning elements <b>310</b> that incorporate plate elements <b>315</b>. Given that plate elements <b>315</b> from relatively hard or rigid materials, cover components <b>210</b> may be utilized to provide protection to other athletes or individuals from plate elements <b>315</b>. Moreover, pads <b>213</b> may have a greater area than plate elements <b>315</b> such that pads <b>213</b> completely cover plate elements <b>315</b>. Even if components <b>210</b> and <b>305</b> move relative to each other, the larger pads <b>213</b> may remain in an overlapping configuration with plate elements <b>315</b> to continue providing protection to other athletes or individuals from plate elements <b>315</b>.</p>
+<p id="p-0073" num="0072">Further Configurations</p>
+<p id="p-0074" num="0073">Aspects of protective components <b>305</b> may vary, depending upon the intended use for protective components <b>305</b>, the types of apparel that protective components <b>305</b> are used in, and their locations within apparel, for example. Moreover, changes to the dimensions, shapes, and materials utilized within protective components <b>305</b> may vary the overall properties of protective components <b>305</b>. That is, by changing the dimensions, shapes, and materials utilized within protective components <b>305</b>, the compressibility, impact force attenuation and distribution, breathability, flexibility, and overall mass of protective components <b>305</b> may be tailored to specific purposes or types of apparel. A plurality of variations for protective components <b>305</b> are discussed below. Any of these variations, as well as combinations of these variations, may be utilized to tailor the properties of protective components <b>305</b> to an intended use or particular product. Moreover, any of the various configurations disclosed in U.S. Provisional Patent Application Ser. No. 61/158,653, which was previously entirely incorporated herein by reference, may be utilized for cushioning element <b>310</b>.</p>
+<p id="p-0075" num="0074">A further configuration of protective components <b>305</b> is depicted in <figref idref="DRAWINGS">FIG. 18A</figref>, wherein securing elements <b>326</b> are absent. In this configuration, each of pads <b>313</b> have similar shapes and do not define apertures (i.e., apertures <b>324</b>) for receiving securing elements <b>326</b>. In order to secure plate element <b>315</b>, adhesive bonding, thermal bonding, or stitching may be utilized. In other configurations, a hook-and-loop fastener system may be utilized to join plate element <b>315</b> to cushioning element <b>310</b>. Referring to <figref idref="DRAWINGS">FIG. 18B</figref>, for example, a first part <b>316</b> of a hook-and-loop fastener system is secured to an underside of plate element <b>315</b> and a second part <b>317</b> of the hook-and-loop fastener system is secured to an exterior of first material layer <b>311</b>. As another example, <figref idref="DRAWINGS">FIG. 18C</figref> depicts a similar configuration where first material layer <b>311</b> incorporates or is formed by second part <b>317</b> of the hook-and-loop fastener system. That is, first material layer <b>311</b> may be second part <b>317</b> of the hook-and-loop fastener system.</p>
+<p id="p-0076" num="0075">An advantage of utilizing the hook-and-loop fastener system is that plate element <b>315</b> may be easily separated, repositioned, or replaced with another plate having a different configuration (e.g., shape, thickness, flexibility). That is, parts <b>316</b> and <b>317</b> may be separated from each other and then rejoined following repositioning or replacement. Although parts <b>316</b> and <b>317</b> are depicted as having a size and shape of plate element <b>315</b> in <figref idref="DRAWINGS">FIG. 18B</figref>, either of both of parts <b>316</b> and <b>317</b> may have any shape or size that facilitates joining and separating plate element <b>315</b> from cushioning element <b>310</b>. Moreover, cushioning element <b>310</b> may be used to impart cushioning and protection without plate element <b>315</b> during some activities, and then plate element <b>315</b> may be rejoined to cushioning element <b>310</b> for other activities. Accordingly, the presence of the hook-and-loop fastening system provides configurability and variability to the use of apparel system <b>100</b>.</p>
+<p id="p-0077" num="0076">Further configurations of protective components <b>305</b> may include a variety of additional features. As depicted in <figref idref="DRAWINGS">FIG. 18D</figref>, ribs <b>328</b> are absent from plate element <b>315</b> and a plurality of apertures <b>327</b> extend through plate element <b>315</b>. Advantages of the various apertures <b>327</b> are that the flexibility and breathability of plate element <b>315</b> may be increased. Pads <b>313</b> are discussed above as having an elliptical or generally elongate shape with rounded end areas. Pads <b>313</b> may, however, have a variety of other shapes, including hexagonal shapes, as depicted in <figref idref="DRAWINGS">FIG. 18E</figref>. Pads <b>313</b> may also have a variety of other shapes, such as round shapes, triangular shapes, rectangular shapes, or irregular shapes. Pads <b>313</b> may also have a mixture of different shapes, as depicted in <figref idref="DRAWINGS">FIG. 18F</figref>. Additionally, frame <b>314</b> may be absent from some configurations, as also depicted in <figref idref="DRAWINGS">FIGS. 18E and 18F</figref>.</p>
+<p id="p-0078" num="0077">Plate element <b>315</b> may cover a majority or even all of cushioning element <b>310</b>, as depicted in <figref idref="DRAWINGS">FIG. 19A</figref>. In further configurations, two or more plate elements <b>315</b> may be utilized, as depicted in <figref idref="DRAWINGS">FIG. 19B</figref>. In addition to changes in the shape of plate element <b>315</b>, the overall shape of protective components <b>305</b> may vary significantly, as depicted by the rectangular and circular shapes in <figref idref="DRAWINGS">FIGS. 19C and 19D</figref>. As noted above with the configuration of <figref idref="DRAWINGS">FIG. 19A</figref>, two or more plate elements <b>315</b> may be utilized. Referring to <figref idref="DRAWINGS">FIG. 19E</figref>, a similar configuration wherein three separate plate elements <b>315</b> overlap each other is depicted to impart flexibility without gaps or other discontinuities between plate elements <b>315</b>.</p>
+<p id="p-0079" num="0078">Although the thicknesses of pads <b>313</b> may be substantially identical, the thicknesses may also vary, as depicted in <figref idref="DRAWINGS">FIG. 20A</figref>. The thickness of plate element <b>315</b> may also vary. As depicted in <figref idref="DRAWINGS">FIG. 20B</figref>, the thickness of plate element <b>315</b> tapers across the width of cushioning element <b>310</b>. In some configurations of cushioning element <b>310</b>, securing elements <b>326</b> may also be anchored within pads <b>313</b>, rather than extending through pads <b>313</b>.</p>
+<p id="p-0080" num="0079">Article Of Protective Apparel</p>
+<p id="p-0081" num="0080">With reference to <figref idref="DRAWINGS">FIG. 21</figref>, individual <b>10</b> is depicted as wearing an article of protective apparel <b>400</b> with the configuration of shoulder pads, which may be utilized in various contact sports, such as American football. Protective apparel <b>400</b> includes a plate element <b>410</b>, a torso cushioning element <b>420</b>, and a pair of shoulder cushioning elements <b>430</b>. Plate element <b>410</b> covers or extends over an upper torso and shoulders of individual <b>10</b>. Torso cushioning element <b>420</b> is secured to plate element <b>410</b> and located between plate element <b>410</b> and individual <b>10</b>. Moreover, torso cushioning element <b>420</b> covers or extends over the upper torso and a middle torso of individual <b>10</b>, thereby extending downward from plate element <b>410</b>. Shoulder cushioning elements <b>430</b>, which cover or extend over the shoulders, are also secured to plate element <b>410</b> and located between plate element <b>410</b> and individual <b>10</b>. In combination, elements <b>410</b>, <b>420</b>, and <b>430</b> impart padding, cushioning, or otherwise attenuate impact forces, thereby imparting protection to individual <b>10</b>.</p>
+<p id="p-0082" num="0081">In the sport of American football, for example, shoulder pads are worn by athletes during athletic competitions. For some athletic training sessions (e.g., practices), however, separate protective pads that do not include plate-like components are worn in place of the shoulder pads. Accordingly, athletic organizations, schools, teams, or the athletes generally purchase or otherwise obtain both the shoulder pads and the protective pads for each of the athletes. An advantage of protective apparel <b>400</b>, however, relates to the separability of elements <b>410</b> and <b>420</b>. During the athletic competitions, the combination of plate element <b>410</b>, torso cushioning element <b>420</b>, and shoulder cushioning elements <b>430</b> may be worn to impart protection to individual <b>10</b> from contact with other athletes, equipment, or the ground. During the athletic training sessions, however, torso cushioning element <b>420</b> may be separated from plate element <b>410</b>, and torso cushioning element <b>420</b> may be worn alone, as depicted in <figref idref="DRAWINGS">FIG. 22</figref>, to provide a moderate degree of protection to individual <b>10</b> from contact with other athletes, equipment, or the ground. That is, torso cushioning element <b>420</b> may be worn without plate element <b>410</b> during the athletic training sessions. Prior to an athletic competition, elements <b>410</b> and <b>420</b> may be rejoined for use during the athletic competition. As such, athletic organizations, schools, teams, or the athletes may obtain protective apparel <b>400</b> to be properly outfitted during both the athletic competitions and the athletic training sessions.</p>
+<p id="p-0083" num="0082">Protective apparel <b>400</b> is depicted individually in <figref idref="DRAWINGS">FIGS. 23-25</figref>. Plate element <b>410</b> includes a torso portion <b>411</b>, two inner shoulder portions <b>412</b>, and two outer shoulder portions <b>413</b>. Torso portion <b>411</b> covers or otherwise extends over an upper torso of individual <b>10</b>. More particularly, torso portion <b>411</b> extends over both the chest and back of individual <b>10</b>. Torso portion <b>411</b> may be formed from a plurality of plate-like components that are joined by various connectors <b>414</b>. For example, one of connectors <b>414</b> on a front side of plate element <b>410</b> has a configuration of a lace that extends repeatedly between two plate-like components, thereby providing some adjustability. Various connectors <b>414</b> on a back side of plate element <b>410</b> have configurations of straps that extend between two plate-like components.</p>
+<p id="p-0084" num="0083">Shoulder portions <b>412</b> and <b>413</b> also have the configuration of plate-like components and cover or otherwise extend over the shoulders of individual <b>10</b>. Inner shoulder portions <b>412</b> overlap spaces between torso portion <b>411</b> and outer shoulder portions <b>413</b>. In some configurations, each of shoulder portions <b>412</b> and <b>413</b> are flexibly-secured to torso portion <b>411</b>. In other configurations, outer shoulder portions <b>413</b> are flexibly-secured to inner shoulder portions <b>412</b>, and inner shoulder portions <b>412</b> are flexibly-secured to torso portion <b>411</b>. In either configuration, shoulder portions <b>412</b> and <b>413</b> are secured at opposite sides of torso portion <b>411</b>.</p>
+<p id="p-0085" num="0084">Plate element <b>410</b> is primarily formed from a semi-rigid or rigid polymer material, which may be a non-foamed polymer material. Examples of suitable polymer materials for plate element <b>410</b> (i.e., portions <b>411</b>, <b>412</b>, and <b>413</b>) include polyethylene, polypropylene, acrylonitrile butadiene styrene, polyester, thermoset urethane, thermoplastic urethane, polyether block amide, polybutylene terephthalate various nylon formulations, or blends of these materials. Composite materials may also be formed by incorporating glass fibers, aramid fibers, or carbon fibers, for example, into the polymer materials discussed above in order to enhance the strength and rigidity of plate element <b>410</b>. In some configurations, plate element <b>410</b> may also be formed from metal materials (e.g., aluminum, titanium, steel) or may include metal elements that enhance the strength and rigidity of plate element <b>410</b>. Accordingly, a variety of materials may be utilized for plate element <b>410</b>.</p>
+<p id="p-0086" num="0085">Torso cushioning element <b>420</b> is depicted in combination with plate element <b>410</b> in <figref idref="DRAWINGS">FIGS. 23-25</figref> and is depicted individually in <figref idref="DRAWINGS">FIGS. 27 and 28</figref>. When secured to plate element <b>410</b>, torso cushioning element <b>420</b> is located between plate element <b>410</b> and individual <b>10</b> to cover or extend over the upper torso and middle torso of individual <b>10</b>. Although torso cushioning element <b>420</b> may have a variety of configurations, torso cushioning element <b>420</b> is depicted as including (a) a chest portion <b>421</b> that covers or extends over a chest of individual <b>10</b>, (b) a back portion <b>422</b> that covers or extends over a back of individual <b>10</b>, and (c) a neck aperture <b>423</b> located between portions <b>421</b> and <b>422</b> for receiving or extending around a neck of individual <b>10</b>. As such, torso cushioning element <b>420</b> covers many of the same areas of individual <b>10</b> as plate element <b>410</b>. In order to impart additional protection, however, torso cushioning element <b>420</b> extends downward to cover the middle torso. At the middle torso, therefore, torso cushioning element <b>420</b> forms the exterior surface of protective apparel <b>400</b>. In order to secure torso cushioning element <b>420</b> to individual <b>10</b>, two straps <b>424</b> extend between lower areas of portions <b>421</b> and <b>422</b>.</p>
+<p id="p-0087" num="0086">The primary elements of torso cushioning element <b>420</b> are a first material layer <b>426</b>, a second material layer <b>427</b>, and a plurality of compressible pads <b>428</b> located between and secured to material layers <b>426</b> and <b>427</b>, as depicted in <figref idref="DRAWINGS">FIG. 26A</figref>. In general, torso cushioning element <b>420</b> has the configuration of cushioning element <b>310</b>. As such, first material layer <b>426</b> and second material layer <b>427</b> cooperatively form a pocket or void, in which pads <b>428</b> are located, and opposite surfaces of pads <b>428</b> are secured to material layers <b>426</b> and <b>427</b>. Although pads <b>428</b> are spaced evenly from each other and arranged in offset rows, other configurations for pads <b>428</b> may be utilized. Moreover, pads <b>428</b> are generally discrete elements that are spaced from each other, but may also be connected or formed as a one-piece unit. Given this configuration, torso cushioning element <b>420</b> may simultaneously provide one or more of breathability, a relatively low overall mass, and launderability.</p>
+<p id="p-0088" num="0087">A variety of materials may be utilized for pads <b>428</b>, including any of the various materials discussed above for pad <b>213</b>, such as polymer foam materials and fluid-filled chambers. As a comparison with the compressible polymer foam material forming pads <b>428</b>, plate element <b>410</b> is discussed above as including a semi-rigid or rigid polymer material. As such plate element <b>410</b> may have greater stiffness and density than the polymer foam material of pads <b>428</b>. As another comparison, whereas pads <b>428</b> may be formed from a polymer foam material, plate element <b>410</b> may include a non-foamed polymer material.</p>
+<p id="p-0089" num="0088">A hook-and-loop fastening system may be used to join plate element <b>410</b> and torso cushioning element <b>420</b>. More particularly, plate element <b>410</b> may include a first part <b>415</b> of the hook-and-loop fastening system, and torso cushioning element <b>420</b> may incorporate a second part <b>425</b> of the hook-and-loop fastening system. Moreover, first part <b>415</b> is joinable to second part <b>425</b> to secure plate element <b>410</b> to torso cushioning element <b>420</b>. Referring to <figref idref="DRAWINGS">FIGS. 23</figref>, <b>24</b>, and <b>26</b>A, first part <b>415</b> may be located on an inner surface of torso portion <b>411</b>. Additionally, second part <b>425</b> may be incorporated into or otherwise form first material layer <b>426</b> of torso cushioning element <b>420</b>. As such, first material layer <b>426</b> may be second part <b>425</b> of the hook-and-loop fastening system.</p>
+<p id="p-0090" num="0089">As discussed above, an advantage of protective apparel <b>400</b> relates to the separability of plate element <b>410</b> and torso cushioning element <b>420</b>. The hook-and-loop fastening system readily permits elements <b>410</b> and <b>420</b> to be separated and rejoined. As such, elements <b>410</b> and <b>420</b> may be joined for use during athletic competitions, and elements <b>410</b> and <b>420</b> may be separated so that torso cushioning element <b>420</b> may be used alone during athletic training sessions. Accordingly, the hook-and-loop fastening system facilitates the use of protective apparel <b>400</b> during various types of athletic activities.</p>
+<p id="p-0091" num="0090">The pair of shoulder cushioning elements <b>430</b>, which are depicted in <figref idref="DRAWINGS">FIGS. 25 and 26B</figref>, join with outer shoulder portions <b>413</b> and cover or otherwise extend over the shoulders of individual <b>10</b>. As with torso cushioning element <b>420</b>, shoulder cushioning elements <b>430</b> include first material layer <b>426</b>, second material layer <b>427</b>, and pads <b>428</b>, which are located between and secured to material layers <b>426</b> and <b>427</b>. Moreover, first material layer <b>426</b> forms second part <b>425</b> of the hook-and-loop fastening system, which joins with and separates from first part <b>415</b> on an underside of outer shoulder portions <b>413</b>. In other configurations, additional shoulder cushioning elements <b>430</b> may be utilized with inner shoulder portions <b>410</b>, or shoulder cushioning elements <b>430</b> may be lengthened or otherwise enlarged to extend under both of shoulder portions <b>412</b> and <b>413</b> on each side of protective apparel <b>400</b>.</p>
+<p id="p-0092" num="0091">A further advantage to the protective apparel <b>400</b> is that individual <b>10</b> or another athlete may incorporate various supplemental cushioning elements <b>440</b> into areas where additional padding, cushioning, or the distribution or attenuation of impact forces padding is desired. Referring to <figref idref="DRAWINGS">FIG. 29</figref>, two supplemental cushioning elements <b>440</b> are depicted and may be located, as an example, under torso portion <b>411</b> and under one of inner shoulder portions <b>412</b>. More particularly, supplemental cushioning elements <b>440</b> may be located between elements <b>410</b> and <b>420</b> in these areas. In some configurations, supplemental cushioning elements <b>440</b> may incorporate both parts <b>415</b> and <b>425</b> of the hook-and-loop fastening system to join with (a) first part <b>415</b> of plate element <b>410</b> and (b) second part <b>425</b> of torso cushioning element <b>420</b>. As noted, supplemental cushioning elements <b>440</b> may be positioned in areas where additional impact force attenuation is desired. As examples, supplemental cushioning elements <b>440</b> may be located in areas that are prone to soreness or injury and areas of a prior injury. As such, protective apparel <b>410</b> accommodates the use of additional padding in any area, thereby providing individual <b>10</b> with the freedom to customize the force attenuation properties of protective apparel <b>400</b>.</p>
+<p id="p-0093" num="0092">Torso cushioning element <b>420</b> is depicted as primarily covering the upper and middle torso of individual <b>10</b>. In further configurations, torso cushioning element <b>420</b> may extend over other areas of individual <b>10</b>. As an example, <figref idref="DRAWINGS">FIG. 30</figref> depicts a configuration wherein torso cushioning element <b>420</b> would extend over the shoulders of individual <b>10</b>, thereby replacing shoulder cushioning elements <b>430</b>. In some configurations, shoulder cushioning elements <b>430</b> may continue to be utilized in order to impart additional cushioning to the shoulders. In other configurations, torso cushioning element <b>420</b> may extend downward to cover the lower torso and pelvic region, or torso cushioning element <b>420</b> may extend upward to protect the neck. Additional plate-like components may also extend into any of these areas to impart further protection, and the hook-and-loop cushioning system may be utilized to secure the additional plate-like components to torso cushioning element <b>420</b>.</p>
+<p id="p-0094" num="0093">Referring again to <figref idref="DRAWINGS">FIG. 30</figref>, torso cushioning element <b>420</b> is depicted as including various separate components that form second part <b>425</b> of the hook-and-loop fastening system. As discussed above, first material layer <b>426</b> may be second part <b>425</b> of the hook-and-loop fastening system. In this configuration, however, the separate components of second part <b>425</b> are secured to first material layer <b>426</b> (e.g., with stitching, adhesives, thermobonding). As such, the cross-sectional configuration may appear as depicted in <figref idref="DRAWINGS">FIG. 31</figref>, wherein second part <b>425</b> is located between first part <b>415</b> and first material layer <b>426</b> when elements <b>410</b> and <b>420</b> are joined.</p>
+<p id="p-0095" num="0094">Shoulder pads provide one example of the types of protective apparel that may incorporate the features discussed above for protective apparel <b>400</b>. Other examples that may include plate elements and cushioning elements joined by a hook-and-loop fastening system include (a) further pads utilized for American football, (b) soccer shin guards, (c) helmets for a variety of sports, (d) hockey pads, and (e) protective devices for bicycling, skateboarding, skiing, snowboarding, and various motorsports. As another example, <figref idref="DRAWINGS">FIG. 32</figref> depicts a baseball catcher's leg guard <b>450</b> that includes multiple plate elements <b>451</b> and cushioning elements <b>452</b>. Referring to the cross-section of <figref idref="DRAWINGS">FIG. 33</figref>, parts <b>453</b> and <b>454</b> of a hook-and-loop fastening system may be utilized to join elements <b>451</b> and <b>452</b>. Although suited for athletic activities, protective apparel having these features may also be utilized in non-athletic pursuits, such as protective apparel for law enforcement, the military, or various other work-related activities. Accordingly, the general structure discussed above for protective apparel <b>400</b> may be utilized for various protective apparel configurations.</p>
+<p id="p-0096" num="0095">The invention is disclosed above and in the accompanying figures with reference to a variety of configurations. The purpose served by the disclosure, however, is to provide an example of the various features and concepts related to the invention, not to limit the scope of the invention. One skilled in the relevant art will recognize that numerous variations and modifications may be made to the configurations described above without departing from the scope of the present invention, as defined by the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An article of apparel comprising:
+<claim-text>a plate element including a first part of a hook-and-loop fastening system; and</claim-text>
+<claim-text>a cushioning element incorporating a second part of the hook-and-loop fastening system, the cushioning element including (a) a first material layer and a second material layer and (b) a plurality of compressible pads located between the first material layer and the second material layer,</claim-text>
+</claim-text>
+<claim-text>the first part of the hook-and-loop fastening system being joinable to the second part of the hook-and-loop fastening system to secure the plate element to the cushioning element.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second part of the hook-and-loop fastening system is secured to the first material layer.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first material layer is the second part of the hook-and-loop fastening system.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pads are discrete and spaced from each other.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The article of apparel recited in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein opposite surfaces of the pads are secured to the first material layer and the second material layer.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first material layer and the second material layer are textiles.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pads are formed from a polymer foam material and the plate element includes a non-foamed polymer material.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pads include a polymer foam material and the plate element includes a polymer material, the polymer material of the plate element having greater stiffness and density than the polymer foam material of the pads.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the article of apparel is a pants-type garment.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The article of apparel recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the article of apparel is protective apparel for a contact sport.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An article of apparel comprising:
+<claim-text>a plate element having (a) a torso portion for covering an upper torso of a wearer and (b) at least two shoulder portions for covering shoulders of the wearer, the shoulder portions being secured at opposite sides of the torso portion, and at least the torso portion including a first part of a hook-and-loop fastening system; and</claim-text>
+<claim-text>a cushioning element for covering at least an upper torso of a wearer, the cushioning element incorporating a second part of the hook-and-loop fastening system, and the cushioning element including (a) a first material layer and a second material layer and (b) a plurality of compressible pads located between and secured to the first material layer and the second material layer,</claim-text>
+</claim-text>
+<claim-text>the first part of the hook-and-loop fastening system being joinable to the second part of the hook-and-loop fastening system to secure the plate element to the cushioning element.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the second part of the hook-and-loop fastening system is secured to the first material layer.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first material layer is the second part of the hook-and-loop fastening system.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the shoulder portions each include a third part of the hook-and-loop fastening system, and two shoulder cushioning elements each include a fourth part of the hook-and-loop fastening system, the third part of the hook-and-loop fastening system being joinable to the fourth part of the hook-and-loop fastening system to secure the shoulder cushioning elements to the shoulder portions.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, further including supplemental cushioning elements with a third part of the hook-and-loop fastening system that is joinable to the first part of the hook-and-loop fastening system to secure the supplemental cushioning elements to the torso portion.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the cushioning element includes (a) a chest portion for covering a chest of the wearer and (b) a back portion for covering a back of the wearer.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The article of apparel recited in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the cushioning element defines a neck aperture for extending around a neck of the wearer, the neck aperture being located between the chest portion and the back portion.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first part of the hook-and-loop fastening system is secured to an inner surface of the torso portion.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the pads are discrete and spaced from each other.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the first material layer and the second material layer are textiles.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the pads are formed from a polymer foam material and the plate element includes a non-foamed polymer material.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The article of apparel recited in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the pads include a polymer foam material and the plate element includes a polymer material, the polymer material of the plate element having greater stiffness and density than the polymer foam material of the pads.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. An article of apparel comprising:
+<claim-text>a torso plate for covering an upper torso of a wearer, the torso plate being substantially formed from a polymer material;</claim-text>
+<claim-text>at least two shoulder plates for covering shoulders of the wearer, the shoulder portions being located on opposite sides of the torso plate, and the shoulder plates being formed from the polymer material;</claim-text>
+<claim-text>a plurality of cushioning elements, at least one of the cushioning elements including (a) a first material layer and a second material layer and (b) a plurality of polymer foam pads located between and secured to the first material layer and the second material layer; and</claim-text>
+<claim-text>a hook-and-loop fastening system, parts of the hook-and-loop fastening system being joined to the torso plate, the shoulder plates, and the cushioning elements, the hook-and-loop fastening system securing the cushioning elements to the torso plate and the shoulder plates,</claim-text>
+</claim-text>
+<claim-text>wherein the polymer material of the torso plate and the shoulder plates has greater stiffness and density than the polymer foam pads.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The article of apparel recited in <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein a part of the hook-and-loop fastening system is secured to the first material layer.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The article of apparel recited in <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the first material layer is a part of the hook-and-loop fastening system.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The article of apparel recited in <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein at least one of the cushioning elements includes (a) a chest portion for covering a chest of the wearer and (b) a back portion for covering a back of the wearer.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The article of apparel recited in <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein the cushioning element defines a neck aperture for extending around a neck of the wearer, the neck aperture being located between the chest portion and the back portion.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The article of apparel recited in <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the polymer foam pads are discrete and spaced from each other.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The article of apparel recited in <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the first material layer and the second material layer are textiles.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

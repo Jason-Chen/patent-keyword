@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v44-2013-05-16.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.4 2013-05-16" file="US08438668-20130514.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20130524" date-publ="20130514">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>08438668</doc-number>
+<kind>B2</kind>
+<date>20130514</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12781158</doc-number>
+<date>20100517</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>263</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>42</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2421</main-classification>
+</classification-national>
+<invention-title id="d2e53">Occipital stabilization strap for helmets</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2814043</doc-number>
+<kind>A</kind>
+<name>Alesi</name>
+<date>19571100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2846683</doc-number>
+<kind>A</kind>
+<name>Dye et al.</name>
+<date>19580800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3354468</doc-number>
+<kind>A</kind>
+<name>Bowers, Jr.</name>
+<date>19671100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3418657</doc-number>
+<kind>A</kind>
+<name>Lastnik et al.</name>
+<date>19681200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3591863</doc-number>
+<kind>A</kind>
+<name>Rickard</name>
+<date>19710700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3714668</doc-number>
+<kind>A</kind>
+<name>Mirabella</name>
+<date>19730200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3852821</doc-number>
+<kind>A</kind>
+<name>Mickel</name>
+<date>19741200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4000520</doc-number>
+<kind>A</kind>
+<name>Svendsen</name>
+<date>19770100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4075715</doc-number>
+<kind>A</kind>
+<name>Cowgill</name>
+<date>19780200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4263679</doc-number>
+<kind>A</kind>
+<name>Erlendson</name>
+<date>19810400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2421</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4703879</doc-number>
+<kind>A</kind>
+<name>Kastendieck</name>
+<date>19871100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4753378</doc-number>
+<kind>A</kind>
+<name>Kastendieck et al.</name>
+<date>19880600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224181</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4805239</doc-number>
+<kind>A</kind>
+<name>Ciago</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4884301</doc-number>
+<kind>A</kind>
+<name>Aileo</name>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4885806</doc-number>
+<kind>A</kind>
+<name>Heller</name>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4897888</doc-number>
+<kind>A</kind>
+<name>Broersma et al.</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4898162</doc-number>
+<kind>A</kind>
+<name>Worthrich</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4901373</doc-number>
+<kind>A</kind>
+<name>Broersma</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5044019</doc-number>
+<kind>A</kind>
+<name>Shewchenko et al.</name>
+<date>19910900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5088130</doc-number>
+<kind>A</kind>
+<name>Chiarella</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5091997</doc-number>
+<kind>A</kind>
+<name>Foehl</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5099523</doc-number>
+<kind>A</kind>
+<name>Broersma</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5121508</doc-number>
+<kind>A</kind>
+<name>Grilliot</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5179735</doc-number>
+<kind>A</kind>
+<name>Thomanek</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5315718</doc-number>
+<kind>A</kind>
+<name>Barson</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>5337421</doc-number>
+<kind>A</kind>
+<name>Jeng</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5351341</doc-number>
+<kind>A</kind>
+<name>Broersma</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5381560</doc-number>
+<kind>A</kind>
+<name>Halstead</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5437064</doc-number>
+<kind>A</kind>
+<name>Hamaguchi</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5450631</doc-number>
+<kind>A</kind>
+<name>Egger</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5481762</doc-number>
+<kind>A</kind>
+<name>Gentes</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D372559</doc-number>
+<kind>S</kind>
+<name>Murakami</name>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5551094</doc-number>
+<kind>A</kind>
+<name>Navone</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D375582</doc-number>
+<kind>S</kind>
+<name>Garneau</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5581819</doc-number>
+<kind>A</kind>
+<name>Garneau</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5617589</doc-number>
+<kind>A</kind>
+<name>Lacore et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5619754</doc-number>
+<kind>A</kind>
+<name>Thurwanger</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5619756</doc-number>
+<kind>A</kind>
+<name>Garneau</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5638551</doc-number>
+<kind>A</kind>
+<name>Lallemand</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D388551</doc-number>
+<kind>S</kind>
+<name>Lu</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5704072</doc-number>
+<kind>A</kind>
+<name>Garneau</name>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>5734994</doc-number>
+<kind>A</kind>
+<name>Rogers</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>5813055</doc-number>
+<kind>A</kind>
+<name>Egger</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>5833796</doc-number>
+<kind>A</kind>
+<name>Matich</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>5898950</doc-number>
+<kind>A</kind>
+<name>Spyrou et al.</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2421</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>D411337</doc-number>
+<kind>S</kind>
+<name>Schultz</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>D411338</doc-number>
+<kind>S</kind>
+<name>Egger et al.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>5983405</doc-number>
+<kind>A</kind>
+<name>Casale</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2421</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>D426677</doc-number>
+<kind>S</kind>
+<name>Ho</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>6550071</doc-number>
+<kind>B2</kind>
+<name>Garneau</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>7114197</doc-number>
+<kind>B2</kind>
+<name>Garneau</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>7234210</doc-number>
+<kind>B2</kind>
+<name>Stiles et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>7565704</doc-number>
+<kind>B2</kind>
+<name>Wu</name>
+<date>20090700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>7827617</doc-number>
+<kind>B2</kind>
+<name>Trainor et al.</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  66</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>2006/0179537</doc-number>
+<kind>A1</kind>
+<name>Dennis et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  66</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00056">
+<document-id>
+<country>CA</country>
+<doc-number>2356721</doc-number>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00057">
+<document-id>
+<country>DE</country>
+<doc-number>9003305</doc-number>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00058">
+<document-id>
+<country>DE</country>
+<doc-number>9109328</doc-number>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00059">
+<document-id>
+<country>EP</country>
+<doc-number>0369187</doc-number>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00060">
+<document-id>
+<country>EP</country>
+<doc-number>0470746</doc-number>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00061">
+<document-id>
+<country>EP</country>
+<doc-number>0769256</doc-number>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00062">
+<document-id>
+<country>EP</country>
+<doc-number>0815755</doc-number>
+<date>19980100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00063">
+<document-id>
+<country>EP</country>
+<doc-number>0682885</doc-number>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00064">
+<document-id>
+<country>GB</country>
+<doc-number>1108502</doc-number>
+<date>19680400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00065">
+<document-id>
+<country>WO</country>
+<doc-number>9501739</doc-number>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>22</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2  25</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2  66</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2421</main-classification>
+</classification-national>
+<classification-cpc-text>B43M 3/04</classification-cpc-text>
+<classification-cpc-text>B43M 3/045</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20110277222</doc-number>
+<kind>A1</kind>
+<date>20111117</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Garneau</last-name>
+<first-name>Louis</first-name>
+<address>
+<city>St-Augustin-de-Desmaures</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Hamel</last-name>
+<first-name>Dominic</first-name>
+<address>
+<city>Saint Ferreol les Neiges</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="003" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Isabelle</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>St-Augustin-de-Desmaures</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Garneau</last-name>
+<first-name>Louis</first-name>
+<address>
+<city>St-Augustin-de-Desmaures</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Hamel</last-name>
+<first-name>Dominic</first-name>
+<address>
+<city>Saint Ferreol les Neiges</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Isabelle</last-name>
+<first-name>Paul</first-name>
+<address>
+<city>St-Augustin-de-Desmaures</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Cantor Colburn LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Louis Garneau Sports Inc.</orgname>
+<role>03</role>
+<address>
+<country>CA</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Moran</last-name>
+<first-name>Katherine</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A stabilization strap apparatus for a helmet having a shell with at least one chin strap having a left section and a right section connected to the shell, includes an adjusting assembly shaped to fit a rear occipital portion of a wearer's cranium; and a left occipital strap section and a right occipital strap section, each strap section having a first end securable respectively to the left section and the right section of the at least one chin strap, downwardly of and spaced-apart from the casket shell and a second end slidably attached to the adjusting assembly.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="217.00mm" wi="166.79mm" file="US08438668-20130514-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="237.74mm" wi="165.95mm" file="US08438668-20130514-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="208.28mm" wi="155.70mm" file="US08438668-20130514-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="234.53mm" wi="178.14mm" file="US08438668-20130514-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="187.79mm" wi="155.70mm" file="US08438668-20130514-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="179.24mm" wi="181.95mm" file="US08438668-20130514-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The technical field relates to helmets for head protection and, more particularly, to an adjustable stabilization system for a helmet.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Helmets are worn by users carrying out activities that require head protection, such as cycling. Helmets, which come in various sizes and shapes, include a retention system including fastening straps that extend under the chin of the helmet wearer to retain the helmet in position with the wearer's head.</p>
+<p id="p-0004" num="0003">The fastening straps assist in maintaining the helmet attached to the wearer's head and reduce vertical and pivoting movements of the helmet. However, since they extend downwardly and forwardly under the chin, fastening straps may not always prevent a pivotal play toward the front of the wearer's head. This may result in exposing the back of the wearer's head during a multiple-impact fall.</p>
+<p id="p-0005" num="0004">Stabilizing straps, which contour the occipital portion of the wearer's head, have been developed (See for instance U.S. Pat. Nos. 5,704,072; 5,638,551; and 7,114,197). However, these stabilization straps are typically relatively heavy and there is always a need for lighter helmets.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">It is therefore an aim of the present invention to address the above mentioned issues.</p>
+<p id="p-0007" num="0006">According to a general aspect, there is provided a helmet comprising a shell shaped to fit a wearer's cranium and having a left side and a right side; at least one chin strap having a left section and a right section attached to the shell; and a stabilization strap including a left and a right lateral sections, each having a first end connected respectively to the left and the right sides of the shell and a second end attached respectively to the left and the right sides of the at least one chin strap, a left and a right occipital sections, each having a first end attached respectively to the left and the right sides of the at least one chin strap and a second end, and an adjusting assembly connecting the second ends of the left and the right occipital sections together.</p>
+<p id="p-0008" num="0007">In an embodiment, the second ends of the lateral sections are pivotally attached to a respective one of the first ends of the occipital sections. One of the second ends of the lateral sections and the first ends of the occipital sections can comprise a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections can comprise a corresponding male member insertable in the female member. The second ends of the lateral sections can comprise the male members and the first ends of the occipital sections can comprise the female members and wherein the male members can comprise a stem portion and a conically shaped protuberance extending from the stem portion and the female members can comprise an aperture defined in the first ends of the occipital sections.</p>
+<p id="p-0009" num="0008">In an embodiment, the second ends of the lateral sections and the first ends of the occipital sections are pivotally connected to the at least one chin strap.</p>
+<p id="p-0010" num="0009">In an embodiment, the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship and the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch of the at least one chin strap. The second ends of the lateral sections and the first ends of the occipital sections can be attached to the rear branch downwardly of and spaced-apart from the shell.</p>
+<p id="p-0011" num="0010">In an embodiment, the second ends of the left and the right occipital sections are slidably connected to the adjusting assembly for adjusting the length of the occipital sections.</p>
+<p id="p-0012" num="0011">According to another general aspect, there is provided a helmet comprising a shell shaped to fit a wearer's cranium and having a left side and a right side; at least one woven-fiber chin strap having a left section and a right section connected to the shell; and a stabilization strap including a left and a right occipital sections, each having a first end attached respectively to the left and the right sides of the at least one chin strap without substantially creating discontinuities in the at least one woven-fiber chin strap and a second end, and an adjusting assembly connecting the second ends of the left and the right occipital sections together.</p>
+<p id="p-0013" num="0012">In an embodiment, the stabilization strap comprises a left and a right lateral sections, each having a first end connected respectively to the left and the right sides of the shell and a second end attached respectively to the left and the right sides of the at least one chin strap.</p>
+<p id="p-0014" num="0013">In an embodiment, the second ends of the lateral sections are attached to a respective one of the first ends of the occipital sections. One of the second ends of the lateral sections and the first ends of the occipital sections can comprise a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections can comprise a corresponding male member insertable in the female member and in the at least one chin strap. The second ends of the lateral sections can comprise the male members and the first ends of the occipital sections can comprise the female members and wherein the male members comprise a stem portion and a conically shaped protuberance extending from the stem portion and the female members can comprise an aperture defined in the first ends of the occipital sections.</p>
+<p id="p-0015" num="0014">In an embodiment, the second ends of the lateral sections and the first ends of the occipital sections are pivotally connected to the at least one chin strap.</p>
+<p id="p-0016" num="0015">In an embodiment, wherein the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship and the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch. The second ends of the lateral sections and the first ends of the occipital sections can be attached to the rear branch downwardly of and spaced-apart from the shell.</p>
+<p id="p-0017" num="0016">In an embodiment, the second ends of the left and the right occipital sections are slidably connected to the adjusting assembly.</p>
+<p id="p-0018" num="0017">According to a further general aspect, there is provided a stabilization strap apparatus for a helmet having a shell with at least one chin strap having a left section and a right section connected to the shell, comprising: an adjusting assembly shaped to fit a rear occipital portion of a wearer's cranium; and a left occipital strap section and a right occipital strap section, each strap section having a first end securable respectively to the left section and the right section of the at least one chin strap, downwardly of and spaced-apart from the casket shell and a second end slidably attached to the adjusting assembly.</p>
+<p id="p-0019" num="0018">In an embodiment, the stabilization strap apparatus comprises a left lateral section and a right lateral section, each having a first end connected respectively to the left and the right sides of the shell and a second end attached respectively to the left and the right sides of the at least one chin strap.</p>
+<p id="p-0020" num="0019">In an embodiment, the second ends of the lateral sections are attached to a respective one of the first ends of the occipital sections. One of the second ends of the lateral sections and the first ends of the occipital sections can comprise a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections can comprise a corresponding male member insertable in the female member.</p>
+<p id="p-0021" num="0020">In an embodiment, the second ends of the lateral sections and the first ends of the occipital sections are pivotally connected to the at least one chin strap.</p>
+<p id="p-0022" num="0021">In an embodiment, the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship and the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> is a rear perspective view of a helmet having a stabilization strap in accordance with an embodiment;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> is a side elevation view of the helmet having the stabilization strap shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3</figref> is a bottom perspective view of the helmet having the stabilization strap shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view, enlarged and exploded, of a connection between two stabilization strap sections and a chin strap of the helmet in accordance with an embodiment; and</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 5</figref> is a side elevation view, enlarged, of the connection between the two stabilization strap sections and the chin strap of the helmet shown in <figref idref="DRAWINGS">FIG. 3</figref>, wherein a lateral section of the stabilization strap is engaged with the chin strap.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0028" num="0027">It will be noted that throughout the appended drawings, like features are identified by like reference numerals.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0029" num="0028">Referring now to the drawings and, more particularly, referring to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, there is shown a helmet <b>20</b> having a shell <b>22</b> with a front section <b>24</b>, a rear section <b>26</b>, a right side <b>28</b>, and a left side <b>30</b>. The shape of the shell <b>22</b> is designed to protect a wearer's cranium in case of a fall. In the embodiment shown, the helmet <b>20</b> is a cycling helmet.</p>
+<p id="p-0030" num="0029">The helmet <b>20</b> includes a retention system and, more particularly, a chin strap <b>32</b> which has a left section <b>34</b> and a right section <b>36</b>, each being connected to a respective side of the helmet shell <b>22</b> and extending downwardly on the respective lateral side of the wearer's head. The free ends of the left and the right sections <b>34</b>, <b>36</b> of the chin strap <b>32</b> are connectable to one another. More particularly, in the embodiment shown, they are equipped with a fast hooking/unhooking fastener <b>38</b> positioned beneath and spaced-apart from the shell <b>22</b>. The left and the right sections <b>34</b>, <b>36</b> of the chin strap <b>32</b> are connected to one another under the wearer's chin when worn.</p>
+<p id="p-0031" num="0030">In the embodiment shown the chin strap <b>32</b> is Y-shaped. Each one of the left and the right sections <b>34</b>, <b>36</b> has a front branch <b>40</b> and a rear branch <b>42</b> joined together by a slidable strap divider or connector <b>44</b> as it is known in the art. The front and the rear branches <b>40</b>, <b>42</b> of the chin strap <b>32</b> have an end attached to the helmet shell <b>22</b>, extend respectively before and behind each of the ears, and connect under the ears. The chin strap <b>32</b> can be adjusted by moving the slidable strap divider <b>44</b> and the hooking/unhooking fastener <b>38</b> along the strap to secure and stabilize the helmet <b>20</b> to the wearer's head.</p>
+<p id="p-0032" num="0031">It is appreciated that, in an alternative embodiment (not shown), the left and the right sections <b>34</b>, <b>36</b> of the chin strap <b>32</b> can include a single strap, instead of being Y-shaped. The strap can be attached to the helmet shell <b>22</b> close to the wearer's ears, or forwardly thereof.</p>
+<p id="p-0033" num="0032">In an alternative embodiment (not shown), the chin strap <b>32</b> can be single piece, i.e. the chin strap <b>32</b> can extend continuously in the helmet <b>20</b> from the left side <b>30</b> to the right side <b>28</b>, with the free ends of the strap carrying a fastener, such as and without being limitative, the hooking/unhooking fastener <b>38</b>, for securing the chin strap <b>32</b> under the wearer's chin.</p>
+<p id="p-0034" num="0033">In an embodiment, the chin strap <b>32</b> is made of woven fabric which allows limited or no stretching. For instance and without being limitative, the chin strap <b>32</b> can be made of nylon, polypropylene, or polyester.</p>
+<p id="p-0035" num="0034">The helmet <b>20</b> also has a stabilization system which includes a multi-pieces stabilization strap <b>46</b> secured to the helmet shell <b>22</b> and to the chin strap <b>32</b>. The stabilization strap <b>46</b> includes a left and a right lateral sections <b>48</b>, a left and a right occipital sections <b>50</b>, and an adjusting assembly <b>52</b> connecting the left and the right occipital sections <b>50</b>. The left and the right sections of the stabilization straps <b>46</b> being similar, only one section will be described in further details.</p>
+<p id="p-0036" num="0035">The lateral section <b>48</b> of the stabilization strap <b>46</b> connects the front section <b>24</b> of the helmet shell <b>22</b>, forwardly of the front branch <b>40</b> of the chin strap <b>32</b> to the rear branch <b>42</b> of the chin strap <b>32</b>. More particularly, a first end <b>54</b> of the lateral section <b>48</b> is secured to the helmet shell <b>22</b> through a connector (<figref idref="DRAWINGS">FIG. 5</figref>). To adjust the angle and the location of the lateral section <b>48</b> of the stabilization strap <b>46</b>, the first end <b>54</b> of the lateral section <b>48</b> is pivotally connected to the connector, as it will be described in more details below.</p>
+<p id="p-0037" num="0036">A second end <b>58</b> of the lateral section <b>48</b> is secured to the rear branch <b>42</b> of the chin strap <b>32</b>, downwardly from the helmet shell <b>22</b> (<figref idref="DRAWINGS">FIGS. 3 and 4</figref>). The lateral section <b>48</b> extends under the front branch <b>40</b> of the chin strap <b>32</b>, between the wearer's head and the front chin strap. In an embodiment, the second end <b>58</b> of the lateral section <b>48</b> is secured to the rear branch <b>42</b> of the chin strap <b>32</b> between approximately 30 and 120 millimeters below the junction of the rear branch <b>42</b> of the chin strap <b>32</b> and the helmet shell <b>22</b>. To adjust the angle and the location of the lateral section <b>48</b> of the stabilization strap <b>46</b>, the second end <b>58</b> of the lateral section <b>48</b> is also pivotally connected to the rear branch <b>42</b> of the chin strap <b>32</b>, as it will be described in more details below.</p>
+<p id="p-0038" num="0037">The occipital section <b>50</b> of the stabilization strap <b>46</b> connects the rear branch <b>42</b> of the chin strap <b>32</b> and the lateral section <b>48</b> of the stabilization strap <b>46</b> to the adjusting assembly <b>52</b>. More particularly, a first end <b>60</b> of the occipital section <b>50</b> of the stabilization strap <b>46</b> is pivotally connected to the rear branch <b>42</b> of the chin strap <b>32</b> and to the lateral section <b>48</b> of the stabilization strap <b>46</b>, as it will be described in more details below. A second end (not shown) of the occipital section <b>50</b> of the stabilization strap <b>46</b> is slidably inserted in the adjusting assembly <b>52</b>, as it will also be described in more details below.</p>
+<p id="p-0039" num="0038">Referring now to <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, the connection between the lateral and the occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> and the chin strap <b>32</b> will be described in further details.</p>
+<p id="p-0040" num="0039">The second end <b>58</b> of the lateral section <b>48</b> of the stabilization strap <b>46</b> has a male member <b>64</b> which is designed to be inserted into the chin strap <b>32</b>, to extend therethrough and to engage the first end <b>60</b> of the occipital section <b>50</b> of the stabilization strap <b>46</b>. In the embodiment shown in <figref idref="DRAWINGS">FIGS. 1 to 5</figref>, the male member <b>64</b> includes a stem portion <b>66</b> and a conically-shaped protuberance <b>68</b> protruding from the stem portion. The conically-shaped protuberance <b>68</b> is insertable into the woven fabric chin strap <b>32</b> without substantially damaging the fibers. More particularly, as shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, most fibers remain unbroken following the insertion of the male member <b>64</b> therebetween. In an embodiment, all fibers remain unbroken following the insertion of the male member <b>64</b> therebetween. The fibers close to the inserted male member <b>64</b> are displaced from their original and substantially parallel configuration to allow the passage of the male member <b>64</b> therebetween. Thus, mechanical properties of the chin strap <b>32</b> remain substantially unaffected by the insertion of the male member <b>64</b>.</p>
+<p id="p-0041" num="0040">When inserted through the rear branch <b>42</b> of the chin strap <b>32</b>, the conical protuberance <b>68</b> of the male member <b>64</b> protrudes on the opposite side of the chin strap <b>32</b> and engages a female member <b>70</b> provided in the first end <b>60</b> of the occipital section <b>50</b> of the stabilization strap <b>46</b>. More particularly, the first end <b>60</b> of the occipital section <b>50</b> of the stabilization strap <b>46</b> includes a key shaped aperture with an elongated portion contiguous to a circular portion. This particular shape facilitates insertion of the female member <b>70</b> in the male member <b>64</b> without permanent deformation of the occipital section <b>50</b>. The male member <b>64</b> is inserted in the key shaped aperture and secures the lateral and the occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> to the rear branch <b>42</b> of the chin strap <b>32</b>. More particularly, for attaching the lateral and the occipital sections <b>48</b>, <b>50</b> together, the conical protuberance <b>68</b> is fully inserted in the key shaped aperture until it is entirely located on the opposite side of the occipital section <b>50</b>. Disengagement of the male and female members <b>64</b>, <b>70</b> is prevented since the base of the conical protuberance <b>68</b> is wider than the stem portion <b>66</b>.</p>
+<p id="p-0042" num="0041">It is appreciated that in an alternative embodiment (not shown), the male member <b>64</b> can be located on the first end <b>60</b> of the occipital section <b>50</b> and the corresponding female member <b>70</b> can be located on the second end <b>58</b> of the lateral section <b>48</b>. It is appreciated that the shape of the male and female members <b>64</b>, <b>70</b> can differ from the one described above and shown in the figures.</p>
+<p id="p-0043" num="0042">The first end <b>60</b> of the occipital section <b>50</b> and the second end <b>58</b> of the lateral section <b>48</b> are pivotally connected to the rear branch <b>42</b> of the chin strap <b>32</b>. Therefore, their position can be adjusted with respect to the helmet <b>20</b> and the wearer's head. Furthermore, in an alternative embodiment (not shown), the male and female members <b>64</b>, <b>70</b> can be connected to the front branch <b>40</b> of the chin strap <b>32</b>.</p>
+<p id="p-0044" num="0043">The first end <b>60</b> of the occipital section <b>50</b> and the second end <b>58</b> of the lateral section <b>48</b> are attached to the rear branch <b>42</b> of the chin strap <b>32</b>, downwardly of the helmet shell <b>22</b>. In an embodiment, the first end <b>60</b> of the occipital section <b>50</b> and the second end <b>58</b> of the lateral section <b>48</b> are secured between about 30 and 120 millimeters below the connection of the chin strap <b>32</b> and the helmet shell <b>22</b>. In an embodiment, they are secured between about 40 and 90 millimeters below the connection of the chin strap <b>32</b> and the helmet shell <b>22</b> and in another embodiment, they are secured between about 50 and 80 millimeters below the connection of the chin strap <b>32</b> and the helmet shell <b>22</b>. In an embodiment, the distance between a lower rim <b>74</b> of the helmet shell <b>22</b> and the junction of the first end <b>60</b> of the occipital section <b>50</b> and the second end <b>58</b> of the lateral section <b>48</b> with the chin strap <b>32</b> is about between 5 and 100 millimeters and, in an alternative embodiment between 10 and 20 millimeters.</p>
+<p id="p-0045" num="0044">It is appreciated that the connection between the chin strap <b>32</b>, the lateral section <b>48</b>, and the occipital section <b>50</b> can be adjusted in accordance with the helmet wearer's needs. For instance, the lateral section <b>48</b> and the occipital section <b>50</b> can be disconnected from the chin strap <b>32</b> and reconnected at another location along the chin strap to obtain a better fitting on the wearer's head including the stabilization of the helmet.</p>
+<p id="p-0046" num="0045">As mentioned above, the second end (not shown) of the occipital section <b>50</b> is slidably inserted in the adjusting assembly <b>52</b>, which links together both occipital sections <b>50</b> of the stabilization strap <b>46</b>. The adjusting assembly <b>52</b> provides the means to bring the occipital sections <b>50</b> of the stabilization strap <b>46</b> closer together or farther away from each other by operating an actuating mechanism <b>72</b> to adjust to the particular wearer's head size. This adjusting assembly <b>52</b> will not be further discussed since it is believed to be well known in the art.</p>
+<p id="p-0047" num="0046">By actuating the adjusting assembly <b>52</b>, the stabilization strap <b>46</b> is either tighten or loosen. For instance, when the stabilization strap <b>46</b> is tighten rearwardly, the occipital and lateral sections <b>50</b>, <b>48</b> are simultaneously tighten rearwardly. The rear branch <b>42</b> of the chin strap <b>32</b> is also pulled rearwardly since are the occipital and lateral sections <b>50</b>, <b>48</b> are attached thereto. On the opposite, when the adjusting assembly <b>52</b> is loosen, the occipital and lateral sections <b>50</b>, <b>48</b> as well as the rear branch <b>42</b> of the chin strap <b>32</b> are simultaneously loosen.</p>
+<p id="p-0048" num="0047">The position of the adjusting assembly <b>52</b> on the wearer's head is adjustable since the occipital sections <b>50</b> are pivotally connected to the retention system and, more particularly, to the rear branch <b>42</b> of the chin strap <b>32</b>. Thus, the inclination of the adjusting assembly <b>52</b> can be adjusted in accordance with the wearer's needs.</p>
+<p id="p-0049" num="0048">Referring now to <figref idref="DRAWINGS">FIG. 5</figref>, the connection between the lateral section <b>48</b> of the stabilization strap <b>46</b> and the helmet shell <b>22</b> will be described in further details.</p>
+<p id="p-0050" num="0049">The first end <b>54</b> of the stabilization strap lateral section <b>48</b> is attached to the helmet shell <b>22</b> and, more particularly, inwardly thereof, and close to a lower rim <b>74</b> of the shell <b>22</b>. As mentioned above, it can be secured through a helmet connector (not shown) mounted to an inner surface of the shell <b>22</b>. In an embodiment, the helmet connector has a female member (not shown) such as an aperture defined therein. The helmet connector is located in the front section <b>24</b> of the helmet <b>20</b>, forwardly of the junction between the front chin strap <b>40</b> and the helmet shell <b>22</b>. The first end <b>54</b> of the lateral section <b>48</b> has a protruding male member (not shown). The male member of the lateral section <b>48</b> is designed to be insertable and securable in the corresponding female member defined in the helmet connector. The first end <b>54</b> of the lateral section <b>48</b> of the stabilization strap <b>46</b> is thus pivotally attached to the helmet shell <b>22</b>. More particularly, the male member of the lateral section <b>48</b> can pivot in the female member defined in the helmet connector. Therefore its position can be adjusted with respect to the helmet <b>20</b> and the wearer's head.</p>
+<p id="p-0051" num="0050">In an embodiment, the helmet <b>20</b> can include recesses (not shown) in the protective material for insertion of the helmet connectors therein. Therefore, the helmet connectors can be partially or entirely encapsulated in the helmet protective material.</p>
+<p id="p-0052" num="0051">In alternative embodiments (not shown), it is appreciated that the lateral section <b>48</b> of the stabilization strap <b>46</b> can be connected to the helmet shell <b>22</b>, rearwardly of the chin strap <b>32</b> or between the front and the rear branches <b>40</b>, <b>42</b> of the chin strap <b>32</b>, if any. Furthermore, the connection between the lateral section <b>48</b> of the stabilization strap <b>46</b> and the helmet shell <b>22</b> can be pivotal or fixed, i.e. non-pivotal. Furthermore, the lateral section <b>48</b> of the stabilization strap <b>46</b> can be secured directly to the helmet shell <b>22</b>, without an intermediate helmet connector. For instance and without being limitative, the male member of the lateral section <b>48</b> can be inserted directly in the shell <b>22</b>. Furthermore, the lateral section <b>48</b> of the stabilization strap <b>46</b> can be secured to an outer face of the helmet shell <b>22</b> or to the lower rim <b>74</b>. The male and female members can be interchanged, i.e. the male member can be located on the helmet shell <b>22</b> and the corresponding female member can be defined in the lateral section <b>48</b> of the stabilization strap <b>46</b>.</p>
+<p id="p-0053" num="0052">In alternative embodiments (not shown), it is appreciated that the second end <b>58</b> of the lateral section <b>48</b> can be secured to the front branch <b>40</b> of the chin strap <b>32</b> or any branch thereof if the chin strap <b>32</b> is not Y-shaped. Furthermore, if the chin strap <b>32</b> is Y-shaped, the lateral section <b>48</b> can extend under or over the front chin strap <b>40</b> if it is secured to the rear chin strap <b>42</b>. On the opposite, if the lateral section <b>48</b> of the stabilization strap <b>46</b> is secured to the front chin strap <b>40</b>, the occipital section <b>50</b> of the stabilization strap <b>46</b> can extend under or over the rear chin strap <b>42</b>.</p>
+<p id="p-0054" num="0053">In an alternative embodiment, the stabilization strap <b>46</b> can include solely occipital sections <b>50</b>, i.e. the stabilization strap <b>46</b> does not include lateral sections <b>48</b> and is not connected to the helmet shell <b>22</b>. The opposite ends of the occipital sections <b>50</b> are respectively secured to the chin strap <b>32</b> and to the adjusting assembly <b>52</b>.</p>
+<p id="p-0055" num="0054">It is appreciated that the shape of the male and female members <b>64</b>, <b>70</b> located at the ends <b>58</b>, <b>60</b> of the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> can differ from the one shown in the figures and described above. Furthermore, the connections between the lateral section <b>48</b> and the helmet shell <b>22</b> and between the lateral and occipital sections <b>48</b>, <b>50</b> and the chin strap <b>32</b> can be fixed or pivotal connections.</p>
+<p id="p-0056" num="0055">In an alternative embodiment (not shown), the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> can be attached to the chin strap <b>32</b> with other fasteners such as and without being limitative a rivet. In another alternative embodiment (not shown), the ends <b>58</b>, <b>60</b> of the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> can both have a female member and can be attached to the chin strap <b>32</b> with a male member insertable simultaneously in the female members of the lateral and occipital sections <b>48</b>, <b>50</b> and in the chin strap <b>32</b>. In a further alternative embodiment, the ends <b>58</b>, <b>60</b> of the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> can both have a female member and can be attached to the chin strap <b>32</b> with their respective male member, i.e. each female member is secured to the chin strap <b>32</b> with one male member.</p>
+<p id="p-0057" num="0056">It is appreciated that the chin strap <b>32</b> can be pre-pierced, i.e. an aperture is created in the chin strap <b>32</b> before the attachment of the lateral and occipital sections <b>48</b>, <b>50</b> thereto. To prevent unraveling of the chin strap <b>32</b>, the aperture perimeter can be burned.</p>
+<p id="p-0058" num="0057">The size and the shape of the stabilization strap <b>46</b> and the adjusting assembly <b>52</b> may also vary from the one shown in the figures and described above. Furthermore, the configuration of the attachment between the various components of the stabilization strap <b>46</b> and the helmet <b>20</b> may vary and may be achieved by various types of fastening assemblies.</p>
+<p id="p-0059" num="0058">In an embodiment, the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> is made of flexible and resilient material, strong enough to sustain various types of stress. For instance and without being limitative, the lateral and occipital sections <b>48</b>, <b>50</b> of the stabilization strap <b>46</b> can be made of plastic, nylon, debrin, acetal, polypropylene, and the like. However, it is appreciated that other appropriate materials can be used. It is appreciated that almost any relatively flexible material can be used for the lateral section <b>48</b> of the stabilization strap <b>46</b> while for the occipital sections <b>50</b>, the material must be characterized by a relative stiffness.</p>
+<p id="p-0060" num="0059">The stabilization strap <b>46</b> and the adjusting assembly <b>52</b> are adjustable and securable in more than one predetermined angled position with respect to the helmet <b>20</b> and the wearer's head. The stabilization strap <b>46</b> is adjustable to conform to the size and shape of the wearer's head. It helps maintain and stabilize the position of the helmet <b>20</b> on the wearer's head.</p>
+<p id="p-0061" num="0060">The weight of the stabilization system is reduced since the thickness of the lateral and occipital sections of the stabilization straps can be thinner than with the prior stabilization systems.</p>
+<p id="p-0062" num="0061">In the above described embodiments, the stabilization system is used in combination with a cycling helmet. However, it is appreciated that the stabilization strap can be used for several types of helmets <b>20</b> where stabilization of the helmet on the wearer's head is required.</p>
+<p id="p-0063" num="0062">Several alternative embodiments and examples have been described and illustrated herein. The embodiments of the invention described above are intended to be exemplary only. A person of ordinary skill in the art would appreciate the features of the individual embodiments, and the possible combinations and variations of the components. A person of ordinary skill in the art would further appreciate that any of the embodiments could be provided in any combination with the other embodiments disclosed herein. It is understood that the invention may be embodied in other specific forms without departing from the spirit or central characteristics thereof. The present examples and embodiments, therefore, are to be considered in all respects as illustrative and not restrictive, and the invention is not to be limited to the details given herein. Accordingly, while the specific embodiments have been illustrated and described, numerous modifications come to mind without significantly departing from the spirit of the invention. The scope of the invention is therefore intended to be limited solely by the scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A helmet comprising
+<claim-text>a shell shaped to fit a wearer's cranium and having a left side and a right side;</claim-text>
+<claim-text>at least one chin strap having a left section and a right section attached to the shell; and</claim-text>
+<claim-text>a stabilization strap including a left and a right lateral sections, each having a first end connected respectively to the left and the right sides of the shell and a second end attached respectively to the left and the right sides of the at least one chin strap, a left and a right occipital sections, each having a first end attached respectively to the left and the right sides of the at least one chin strap and a second end, and an adjusting assembly connecting the second ends of the left and the right occipital sections together.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A helmet as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second ends of the lateral sections are pivotally attached to a respective one of the first ends of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A helmet as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein one of the second ends of the lateral sections and the first ends of the occipital sections comprises a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections comprises a corresponding male member insertable in the female member.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A helmet as claimed in <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the second ends of the lateral sections comprise the male members and the first ends of the occipital sections comprise the female members and wherein the male members comprise a stem portion and a conically shaped protuberance extending from the stem portion and the female members comprise an aperture defined in the first ends of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A helmet as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second ends of the lateral sections and the first ends of the occipital sections are pivotally connected to the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A helmet as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship and the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch of the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A helmet as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch downwardly of and spaced-apart from the shell.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A helmet as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second ends of the left and the right occipital sections are slidably connected to the adjusting assembly for adjusting the length of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A helmet comprising
+<claim-text>a shell shaped to fit a wearer's cranium and having a left side and a right side;</claim-text>
+<claim-text>at least one woven-fiber chin strap having a left section and a right section connected to the shell; and</claim-text>
+<claim-text>a stabilization strap including a left and a right occipital sections, each having a first end pivotally attached respectively to the left and the right sides of the at least one chin strap with a pivot stem inserted through the at least one woven-fiber chin strap without substantially creating discontinuities in the at least one woven-fiber chin strap, and a second end, and an adjusting assembly connecting the second ends of the left and the right occipital sections together.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A helmet as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the stabilization strap comprises a left and a right lateral sections, each having a first end connected respectively to the left and the right sides of the shell and a second end attached respectively to the left and the right sides of the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A helmet as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the second ends of the lateral sections are attached to a respective one of the first ends of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A helmet as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein one of the second ends of the lateral sections and the first ends of the occipital sections comprises a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections comprises the pivot stems insertable in a corresponding one of the female member and in the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A helmet as claimed in <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the second ends of the lateral sections comprise the pivot stems and the first ends of the occipital sections comprise the female members and wherein the pivot stems each have a conically shaped protuberance extending from therefrom and the female members comprise an aperture defined in the first ends of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A helmet as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the second ends of the lateral sections are pivotally connected to the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A helmet as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship and the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A helmet as claimed in <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the second ends of the lateral sections and the first ends of the occipital sections are attached to the rear branch downwardly of and spaced-apart from the shell.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A helmet as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the second ends of the left and the right occipital sections are slidably connected to the adjusting assembly.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A stabilization strap apparatus for a helmet having a casket shell with at least one chin strap having a left section and a right section connected to the shell, comprising:
+<claim-text>an adjusting assembly shaped to fit a rear occipital portion of a wearer's cranium;</claim-text>
+<claim-text>a left occipital strap section and a right occipital strap section, each strap section having a first end securable respectively to the left section and the right section of the at least one chin strap, downwardly of and spaced-apart from the casket shell and a second end slidably attached to the adjusting assembly; and</claim-text>
+<claim-text>a left lateral section and a right lateral section, each having a first end adapted to be connected respectively to the left and the right sides of the casket shell and a second end adapted to be attached respectively to the left and the right sides of the at least one chin strap.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A stabilization strap apparatus as claimed in <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the second ends of the lateral sections are attached to a respective one of the first ends of the occipital sections.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A stabilization strap apparatus as claimed in <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein one of the second ends of the lateral sections and the first ends of the occipital sections comprises a female member and the other one of the second ends of the lateral sections and the first ends of the occipital sections comprises a corresponding male member insertable in the female member.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A stabilization strap apparatus as claimed in <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the second ends of the lateral sections and the first ends of the occipital sections are adapted to be pivotally connected to the at least one chin strap.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A stabilization strap apparatus as claimed in <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the left and the right sections of the at least one chin strap are substantially Y-shaped with a front branch attached to the shell and a rear branch attached to the shell in a spaced-apart relationship, and wherein the second ends of the lateral sections and the first ends of the occipital sections are adapted to be attached to the rear branch. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

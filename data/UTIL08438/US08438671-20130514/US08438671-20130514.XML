@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v44-2013-05-16.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.4 2013-05-16" file="US08438671-20130514.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20130524" date-publ="20130514">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>08438671</doc-number>
+<kind>B2</kind>
+<date>20130514</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>13120645</doc-number>
+<date>20091208</date>
+</document-id>
+</application-reference>
+<us-application-series-code>13</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>169</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>4</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>45</class>
+<subclass>C</subclass>
+<main-group>13</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20130514</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<classification-national>
+<country>US</country>
+<main-classification>  4500</main-classification>
+<further-classification>  4502</further-classification>
+</classification-national>
+<invention-title id="d2e53">Automated pool-deck lid lift system for below deck pool cover housing troughs</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2002/0046817</doc-number>
+<kind>A1</kind>
+<name>Last</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>160133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2002/0073486</doc-number>
+<kind>A1</kind>
+<name>Bertoni</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2003/0084502</doc-number>
+<kind>A1</kind>
+<name>Epple et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2006/0059614</doc-number>
+<kind>A1</kind>
+<name>Bouiss</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4502</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2006/0070377</doc-number>
+<kind>A1</kind>
+<name>Last</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60475</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  4498</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4502</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4506</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2423905</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242394</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>19</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61120822</doc-number>
+<date>20081208</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20110167553</doc-number>
+<kind>A1</kind>
+<date>20110714</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Last</last-name>
+<first-name>Harry J.</first-name>
+<address>
+<city>Kailua</city>
+<state>HI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Last</last-name>
+<first-name>Harry J.</first-name>
+<address>
+<city>Kailua</city>
+<state>HI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Newhouse, Esq.</last-name>
+<first-name>David E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Huson</last-name>
+<first-name>Gregory</first-name>
+<department>3751</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Christiansen</last-name>
+<first-name>Janie</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2009/067224</doc-number>
+<kind>00</kind>
+<date>20091208</date>
+</document-id>
+<us-371c124-date>
+<date>20110323</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2010/077695</doc-number>
+<kind>A </kind>
+<date>20100708</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a system for sequentially supporting, opening and closing a pool-deck lid covering below-deck troughs housing coordinated with the operation of powered pool cover systems housed in the troughs. In certain embodiments the system comprises in combination: a front, longitudinal seating structure, an upwardly movably, cantilever bracket structure, hydraulic/pneumatic means, and a hydraulic/pneumatic actuation control means.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="102.45mm" wi="155.45mm" file="US08438671-20130514-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="250.11mm" wi="185.08mm" file="US08438671-20130514-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="249.51mm" wi="173.23mm" file="US08438671-20130514-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="250.95mm" wi="181.95mm" file="US08438671-20130514-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="239.69mm" wi="174.24mm" file="US08438671-20130514-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="245.45mm" wi="197.36mm" file="US08438671-20130514-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="232.75mm" wi="180.93mm" file="US08438671-20130514-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="228.85mm" wi="160.61mm" orientation="landscape" file="US08438671-20130514-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="184.74mm" wi="175.68mm" orientation="landscape" file="US08438671-20130514-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="246.04mm" wi="167.98mm" file="US08438671-20130514-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="226.74mm" wi="201.08mm" file="US08438671-20130514-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="236.22mm" wi="185.17mm" file="US08438671-20130514-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This Application claims all benefits applicable under 35 U.S.C. &#xa7;119(e) related to U.S. Provisional Patent Application Ser. No. 61/120,822 filed on behalf of the Applicant on 8 Dec. 2008 entitled &#x201c;AUTOMATED HINGED LID FOR POOL COVER RECESS&#x201d;, and incorporates U.S. Provisional Patent Application Ser. No. 61/120,822 in its entirety herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The invention relates generally to automatic swimming pool cover systems, and, in particular to a system for sequentially supporting, opening and closing a pool-deck lid covering below-deck troughs housing with the operation of powered pool cover systems.</p>
+<p id="p-0005" num="0004">2. Description of the Prior Art</p>
+<p id="p-0006" num="0005">Swimming pools integrated with pool cover systems extending and retracting covers across the pool surface are safer, energy efficient, less expensive and easier to maintain. Pool covers also prevent heat and water loss through evaporation. It is also desirable to curtail other water losses from pools where water is scarce.</p>
+<p id="p-0007" num="0006">Water splashing over into below-deck troughs housing pool cover systems is primary source water loss from so equipped swimming pools. In particular, the bond beam topping the pool wall between the pool and trough housing are necessarily lower than the surrounding pool deck to allow retraction and extension of pool covers anchored by pool cover tracks secured in or along adjacent pool side walls. [See For example U.S. Pat. No. 5,913,613, Ragsdale; U.S. Pat. No. 6,446,276, Mathis; U.S. Pat. No. 6,496,990, Last; &#x26; U.S. Pat. No. 6,769,141, Epple et al.]</p>
+<p id="p-0008" num="0007">Below-deck troughs housing pool cover systems adjacent a sidewall of a swimming pool also present structural and design problems affecting access to the pool. In particular the housing troughs require pool deck lid structures that integrate with the deck surrounding the pool, that are capable of supporting people sitting on, standing on and diving into the pool, and that allow unencumbered, safe human ingress and egress to and from the pool. The deck lid structures also must allow repair access to the pool cover machinery housed in the trough. Skilled pool designers also recognize that pool wide slots/openings that accommodate the extending and retracting components of pool covers traveling crossing back and forth across the pool from below deck housing troughs detract from pool aesthetics, and present tripping hazards to swimmers accessing and exiting the pool. Accordingly, pool designs have evolved that integrate the leading edge structure carrying the front of the pool cover back and forth over the pool, with the trough housing pool walls, and the trough housing deck lid where the leading edge structure of the pool cover system essentially covers, and/or conceals the pool wide slots/openings when the pool cover is fully retracted. [See U.S. Pat. No. 6,886,188, Epple et al.]</p>
+<p id="p-0009" num="0008">Below-deck troughs housing pool cover systems necessarily encumber accessing and exiting vanishing edge pools. To explain, infinite or vanishing edge pools typically present a below-deck or lowered poolside that allows pool water to flow over into a capturing outside wall gutter below line-of-sight from the opposite side of the pool. Accordingly, the lowered pool edge seemingly extends infinitely or vanishes into the landscape, especially waterscape backgrounds. The housing trough for a pool cover system must be installed adjacent one of the remaining pool walls s affecting access and exit to and from the pool via the remaining pool walls.</p>
+<p id="p-0010" num="0009">Typical housing trough, deck lid structures include braces secured to structural back walls of the housing troughs with support arms cantilevered across the troughs for supporting modular lid plates/trays that in turn integrate, in appearance, with deck top and coping surfaces on, and topping the pool walls. The pool cover deploys to and from the housing trough via the pool wide openings or slots through the pool wall below the deck lid and above a lowered bond beam topping the pool wall between the pool and housing trough. Repair access to the housing trough is accomplished by lifting the modular lid plates/trays off pairs off the supporting cantilever support arms. [See U.S. Pat. Nos. 7,318,243 &#x26; 7,011,782, Smith; U.S. Pat. Nos. 6,886,188, &#x26; 6,769,141 Epple et al; and U.S. Pat. Nos. 6,862,756 &#x26; 6,446,276, Mathis.]</p>
+<p id="p-0011" num="0010">Another approach described in U.S. Patent Application No. 2006/0059614, Bouiss, (2006), provides repair access by rotating a housing trough lid to a vertical position supported on a longitudinal axle spanning the length of the trough supported at the ends by the housing trough walls and medially by one or more axle supports standing on the trough bottom. A plurality of spar ribs perpendicularly extend from the longitudinal axle that in turn support one or more longitudinal deck lid plates that span across the length and width of the housing trough.</p>
+<p id="p-0012" num="0011">In either case, the free, extending ends of cantilever support arms/spars, whether supported by an axle, or structurally secured at the back wall of housing troughs, tend bend or flex downward, responsive to load (weight) supported. In particular, the weight of modular deck lid structures and any people standing/sitting on any modular deck-lid, cause supporting pair(s) of cantilever braces/spars to bend/flex downward. In short, cantilever arm braces/spars alone are &#x2018;springy&#x2019;, and do not provide static (unmoving or static) support to deck-lid structures covering below-deck troughs housing pool covers systems adjacent sidewalls of swimming pools.</p>
+<p id="p-0013" num="0012">An approach attempting to provide static support to cantilevered structures extending over below-deck troughs housing pool cover systems along sidewalls of swimming pools is described in UK Patent GB 2370760 B, Jeffery et al, issued 26 May 2004, that teaches supporting distal flat or planiform poolside ends of a plurality cantilever structures extending across a housing trough with a vertically translatable, longitudinal I-beam, hydraulically raised or jacked-up, adjacent the wall between the trough and the pool. In Jeffery, the pool cover is clamped between the flat extending cantilevered planiform poolside ends of the deck-lid structure and the top surface of the longitudinal beam structure when it is hydraulically raised to the support position. Jeffery et al also proposes water saving membrane secured between the top of the upwardly translating beam and the wall top between the housing trough and pool for containing water pool, i.e., to prevent pool water from splashing into the housing trough when the cover is fully retracted, wound up in the housing trough. In Jeffery, the cantilever structures are joined with the surrounding deck of the pool.</p>
+<p id="p-0014" num="0013">The Jeffery solution presents more problems than it solves. First the beam raised by the hydraulic jacks must squarely engage simultaneously across the entire length of the poolside planiform structures cantilevered over the housing trough to preclude risk of fracture of the overlying deck. Also, objects/debris on top of the pool cover trapped in the entry slot to the trough housing between the rising support beam and one or more of the cantilevered structures precludes square engagement again creating a risk of fracture of the overlying deck and coping elements above the trapped debris. Next, the cantilevered structure and the supported pool deck also must be sufficiently rigid to support the pool deck without the raised beam, yet have sufficient flexibility and strength to allow for loading of the rising beam at its end points without risk of fracturing the overlying pool deck at the junctures of the pool deck and coping elements cantilevered over the pool cover housing. Third, the scheme does not fail safe, i.e., static support under the structures cantilevered over the trough housing fails upon loss of hydraulic support in one or more of the supporting jacks.</p>
+<p id="p-0015" num="0014">Finally, Applicant in his U.S. Pat. No. 6,938,415 issued Sep. 6, 2005 and U.S. Pat. No. 7,204,291 issued Apr. 17, 2007 respectively describe hydraulic/pneumatic actuation systems, and hydraulically actuated modular lid structures for covering housing troughs located below bottom pool surfaces housing buoyant-slat pool cover systems. In U.S. Pat. No. 6,938,415, the Applicant describes a hydraulic/pneumatic actuation system having a forward/extension cycle for sequentially opening a pool bottom lid covering the housing trough below the pool bottom, then resisting/driving rotation of a cover drum unwinding a buoyant-slat cover from the housing trough to cover a pool, and shutting off. In the reverse or retraction cycle, the hydraulic/pneumatic actuation system sequentially drives rotation of a cover drum in the pool bottom trough retracting the buoyant-slat cover from the pool surface completely winding it up around the cover drum, then allows the pool bottom trough lid to close responsive to gravity that shuts the system off upon lid closure. In U.S. Pat. No. 7,204,291 the Applicant describes a modular pool bottom lid structure for covering a housing trough below the pool bottom adapted to be opened and closed by hydraulically actuated systems.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0016" num="0015">A pool deck-lid lift system for below-deck troughs housing pool cover systems for pools features:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0016">(i) a front longitudinal seating structure adapted to seat, for support, upon a static, below-deck, structured top of a pool sidewall between the pool and housing trough sandwiching traveling pool cover system elements that are extended and retracted back and forth across the pool;</li>
+        <li id="ul0002-0002" num="0017">(ii) a cantilever bracket structure movably secured along a back wall of the housing trough with a first plurality of extending support arms extending across the trough for supporting the front, poolside longitudinal lid seating structure and removable, modular deck-lid plates, and with a second plurality of actuator arms extending downward into the housing trough all secured at their distal or bottom ends to a common longitudinal box beam;</li>
+        <li id="ul0002-0003" num="0018">(iii) hydraulic/pneumatic means mechanically coupled to the common longitudinal box beam for lifting/pivoting the cantilever bracket structure, raising the front longitudinal seating structure off the lowered bond beam structure of the pool sidewall allowing extension and retraction travel of the traveling pool cover system elements back and forth across the pool; and</li>
+        <li id="ul0002-0004" num="0019">(iv) a hydraulic/pneumatic actuation control means energizing the, deck-lid lift system and the pool cover system housed in the below-deck housing trough, coupled for sequentially:
+        <ul id="ul0003" list-style="none">
+            <li id="ul0003-0001" num="0020">a. lifting engagement of the front, poolside, longitudinal seating structure seated on the lowered bond beam structure of the pool sidewall, then</li>
+            <li id="ul0003-0002" num="0021">b. energizing the automatic pool cover system for extending and retracting the pool cover out and/or in from across the pool; then</li>
+            <li id="ul0003-0003" num="0022">c. stopping extension and retraction travel of the pool cover between, and at extension, retraction end points, and</li>
+            <li id="ul0003-0004" num="0023">d. allowing the front, poolside, longitudinal seating structure supported by the cantilever bracket structure of the deck-lid system to re-seat upon the lowered bond beam structure of a pool sidewall between the pool and housing trough after travel of the pool cover is stopped.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0024"><figref idref="DRAWINGS">FIGS. 1</figref><i>a</i>, <b>1</b><i>b</i>, <b>1</b><i>c </i>&#x26; <b>1</b><i>d </i>are schematic sketches illustrating the elements of the deck-lid lift system for covering below-deck troughs housing pool cover systems and exemplary hydraulic and/or pneumatic actuation control schemes for synchronizing raising and closing the deck-lid lift system with operation of hydraulically actuated pool cover systems.</p>
+<p id="p-0018" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> is a sketch presenting a cross sectional view of the invented hinged, deck-lid lift system.</p>
+<p id="p-0019" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> is a sketch presenting a cross section view of the hydraulic actuator and an associated adjustment mechanism that pivots or tilts the cantilever bracket structure upward lifting the seated, front, (poolside) longitudinal seating structure off of the lowered bond beam structure of the adjacent pool sidewall sufficiently to allow extension and retraction travel of pool cover system elements.</p>
+<p id="p-0020" num="0027"><figref idref="DRAWINGS">FIGS. 4</figref><i>a</i>, <b>4</b><i>b</i>, <b>5</b><i>a </i>&#x26; <b>5</b><i>b</i>, are sketches illustrating different features of the modular deck-lid top plates supported between pairs of the extending support arms of the cantilever bracket structure and the structural features of the front, poolside, longitudinal seating structure fastened to the distal ends of the extending support arms.</p>
+<p id="p-0021" num="0028"><figref idref="DRAWINGS">FIG. 5</figref><i>c </i>is an image depicting the underside of the modular deck-lid top plates.</p>
+<p id="p-0022" num="0029"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective sketch illustrating mechanical coupling between the longitudinal actuator beam and extending actuator arms of the cantilever bracket structure.</p>
+<p id="p-0023" num="0030"><figref idref="DRAWINGS">FIG. 7</figref> is a variation of <figref idref="DRAWINGS">FIG. 2</figref> with emphasis on integrating details of the top structure of the adjacent pool wall with the structure of the leading edge beam of the pool cover system when the cover is retracted.</p>
+<p id="p-0024" num="0031"><figref idref="DRAWINGS">FIG. 7(</figref><i>a</i>) illustrates a stop block fastened to the traveling leading edge beam of the pool cover system for positively stopping pool cover retraction upon contact against the base section of the bond-beam of the adjacent pool wall between the pool and housing trough.</p>
+<p id="p-0025" num="0032"><figref idref="DRAWINGS">FIG. 8</figref> presents a cross-sectional view of a novel, extruded or structural right-angle, leading-edge beam spanning across a pool supported by sliders traveling in conventional pool cover tracks mounted within or adjacent the pool sidewalls having a longitudinal extending leg with a C-channel along its edge for receiving and carrying a front, beaded edge of a pool cover back and forth across the pool and having a downward extending longitudinal vertical leg adapted to engage the poolside face of the below-deck pool wall between the pool and housing trough and the opposite end wall for positively stopping pool cover retraction and extension.</p>
+<p id="p-0026" num="0033"><figref idref="DRAWINGS">FIG. 9</figref> illustrates a modification of the extruded or structural leading-edge beam shown in <figref idref="DRAWINGS">FIG. 8</figref> for vinyl liner pools that includes a special extrusion topping the below-deck pool wall between the pool and trough housing providing a pool liner channel for receiving and securing a top edge of a vinyl pool liner.</p>
+<p id="p-0027" num="0034"><figref idref="DRAWINGS">FIG. 10</figref> illustrates the extruded or structural right-angle leading-edge beam of <figref idref="DRAWINGS">FIG. 8</figref> modified to allow the leading edge beam to pass over radius corners sections at the pool ends before contacting the poolside faces at the respective end walls stopping extension and retraction of the pool cover.</p>
+<p id="p-0028" num="0035"><figref idref="DRAWINGS">FIGS. 11 and 12</figref> illustrate elements of an exemplary means for adjusting or shimming the elevation between front, longitudinal seating structures seated on the static, and the below-deck, beam-top structure of the pool sidewall between the pool and the housing trough for accommodating different thicknesses of typical pool decks, and for correcting elevation differences between the arms of the pool-deck lid cantilevered over the housing trough and the top of the below-deck pool wall adjacent the housing trough, as constructed and assembled to assure that the seating structures at the front ends of the arms supporting the pool-deck lid each are statically seated on the below-deck pool end wall when the pool-deck lid is closed.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF PREFERRED AND EXEMPLARY EMBODIMENTS</heading>
+<p id="p-0029" num="0036">For context, and a clearer understanding of the features of Applicant's A<smallcaps>UTOMATED </smallcaps>P<smallcaps>OOL</smallcaps>-D<smallcaps>ECK </smallcaps>L<smallcaps>ID </smallcaps>L<smallcaps>IFT </smallcaps>S<smallcaps>YSTEM FOR </smallcaps>B<smallcaps>ELOW </smallcaps>D<smallcaps>ECK </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>H<smallcaps>OUSING </smallcaps>T<smallcaps>ROUGHS</smallcaps>, refer to Applicant's U.S. Pat. No. 4,939,798 issued Jul. 10, 1990 describing a L<smallcaps>EADING </smallcaps>E<smallcaps>DGE AND </smallcaps>T<smallcaps>RACK </smallcaps>S<smallcaps>LIDER </smallcaps>S<smallcaps>YSTEM FOR AN </smallcaps>A<smallcaps>UTOMATIC </smallcaps>S<smallcaps>WIMMING </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER</smallcaps>; U.S. Pat. Nos. 5,184,357 &#x26; 5,327,590 respectively issued Feb. 2, 1993 and Jul. 12, 1994 describing A<smallcaps>UTOMATIC </smallcaps>S<smallcaps>WIMMING </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVERS </smallcaps>W<smallcaps>ITH </smallcaps>D<smallcaps>UAL </smallcaps>H<smallcaps>YDRAULIC </smallcaps>D<smallcaps>RIVE </smallcaps>S<smallcaps>YSTEMS</smallcaps>; U.S. Pat. No. 6,496,990, issued Dec. 24, 2002 describing an E<smallcaps>XTRUDED </smallcaps>T<smallcaps>RACK </smallcaps>C<smallcaps>ONSTRUCT </smallcaps>C<smallcaps>OMPONENT </smallcaps>S<smallcaps>YSTEM FOR </smallcaps>S<smallcaps>WIMMING </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>S<smallcaps>YSTEMS</smallcaps>; U.S. Pat. No. 6,938,415, issued Sep. 6, 2005 describing an H<smallcaps>YDRAULIC</smallcaps>/P<smallcaps>NEUMATIC </smallcaps>A<smallcaps>PPARATUS</smallcaps>; U.S. Pat. No. 6,827,120, issued Dec. 7, 2004 describing an A<smallcaps>UTOMATIC </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>S<smallcaps>YSTEM </smallcaps>U<smallcaps>SING </smallcaps>B<smallcaps>UOYANT </smallcaps>S<smallcaps>LAT </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVERS</smallcaps>; U.S. Pat. No. 7,155,910 issued Jan. 2, 2007 describing a D<smallcaps>UAL</smallcaps>, C<smallcaps>OUPLED </smallcaps>C<smallcaps>HECK </smallcaps>V<smallcaps>ALVE FOR </smallcaps>D<smallcaps>IRECT</smallcaps>, R<smallcaps>EVERSIBLE </smallcaps>P<smallcaps>OWER </smallcaps>S<smallcaps>OURCES FOR </smallcaps>H<smallcaps>YDRAULIC </smallcaps>S<smallcaps>YSTEMS</smallcaps>, and U.S. Pat. No. 7,204,291 issued Apr. 17, 2007 describing a M<smallcaps>ODULAR </smallcaps>L<smallcaps>ID AND </smallcaps>A<smallcaps>CTUATOR FOR </smallcaps>U<smallcaps>NDERWATER </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>D<smallcaps>RUM </smallcaps>E<smallcaps>NCLOSURE</smallcaps>. Also see Applicant's published U.S. Patent Applications Nos. US2004/01443896 describing a T<smallcaps>RAVELING </smallcaps>C<smallcaps>OVER </smallcaps>B<smallcaps>ENCH </smallcaps>S<smallcaps>YSTEM </smallcaps>W<smallcaps>ITH </smallcaps>H<smallcaps>YDRAULIC </smallcaps>F<smallcaps>LUID </smallcaps>A<smallcaps>CTUATOR </smallcaps>(abandoned), and US2008/0178587 describing an A<smallcaps>NTI</smallcaps>-C<smallcaps>AVITATION </smallcaps>M<smallcaps>ANIFOLD FOR </smallcaps>D<smallcaps>RIVE </smallcaps>C<smallcaps>OUPLED</smallcaps>, D<smallcaps>UAL </smallcaps>M<smallcaps>OTOR</smallcaps>, R<smallcaps>EVERSIBLE </smallcaps>H<smallcaps>YDRAULIC </smallcaps>D<smallcaps>RIVE </smallcaps>W<smallcaps>INDING AND </smallcaps>U<smallcaps>NWINDING </smallcaps>S<smallcaps>YSTEMS</smallcaps>. Each of the above cited patents and publications directly relate to the patentability of Applicant's A<smallcaps>UTOMATED </smallcaps>P<smallcaps>OOL</smallcaps>-D<smallcaps>ECK </smallcaps>L<smallcaps>ID </smallcaps>L<smallcaps>IFT </smallcaps>S<smallcaps>YSTEM FOR </smallcaps>B<smallcaps>ELOW </smallcaps>D<smallcaps>ECK </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>H<smallcaps>OUSING </smallcaps>T<smallcaps>ROUGHS </smallcaps>described and claimed below. Accordingly each of the patents and publications cited above are incorporated herein as though fully set forth at length at this point.</p>
+<p id="p-0030" num="0037">In more detail, as schematically illustrated in cross-section in <figref idref="DRAWINGS">FIGS. 1</figref><i>a</i>, <b>1</b><i>b</i>, <b>7</b>, <b>8</b>, and <b>9</b>, Applicant's A<smallcaps>UTOMATED </smallcaps>P<smallcaps>OOL</smallcaps>-D<smallcaps>ECK </smallcaps>L<smallcaps>ID </smallcaps>L<smallcaps>IFT </smallcaps>S<smallcaps>YSTEM FOR </smallcaps>B<smallcaps>ELOW </smallcaps>D<smallcaps>ECK </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>H<smallcaps>OUSING </smallcaps>T<smallcaps>ROUGHS </smallcaps>includes a below-deck trough <b>11</b> housing a hydraulically powered, reversibly rotatable, cover drum <b>12</b>, for winding and unwinding a pool cover <b>14</b>, a hydraulically powered, reversibly rotatable cable reel(s) <b>13</b> winding and unwinding cabling <b>15</b> coupling between the pool cover <b>14</b> and cable reels <b>13</b> that extend and retract the pool cover <b>14</b> back and forth across a pool <b>16</b>. A leading-edge beam <b>17</b> (See <figref idref="DRAWINGS">FIGS. 7</figref>, <b>8</b>, <b>9</b> &#x26; <b>10</b>) spans between the pool sidewalls <b>18</b> above the pool surface supported by sliders <b>19</b> traveling in conventional pool cover tracks <b>21</b> mounted within or adjacent the pool sidewalls <b>18</b> that capture and support beaded side edges (not shown) of the pool cover <b>14</b> above the pool surface (See <figref idref="DRAWINGS">FIG. 10</figref>). A C-channel back edge <b>22</b> of the leading edge beam <b>17</b> captures and supports a front beaded edge <b>23</b> of the pool cover <b>14</b> above the of the pool <b>16</b> as the leading edge beam <b>17</b> and the pool cover <b>18</b> travels back and forth across, covering and uncovering the pool <b>16</b>. The housing trough <b>11</b> is located along a below-deck end wall <b>24</b> of the pool <b>16</b>. The top <b>26</b> of the end wall <b>24</b> is structured for receiving, seating and statically supporting a front longitudinal seating structure(s) <b>27</b> of the pool-deck lid <b>28</b> covering the housing trough <b>11</b>.</p>
+<p id="p-0031" num="0038">In, more detail, looking at <figref idref="DRAWINGS">FIGS. 2</figref>, <b>3</b>, <b>4</b>, <b>4</b><i>b</i>, <b>5</b>, <b>5</b><i>b</i>, <b>5</b><i>c</i>, <b>6</b>, <b>11</b> &#x26; <b>12</b>, the pool-deck lid <b>28</b> comprises a combination of an upwardly movably, preferably a pivotable mounted, approximately 90&#xb0; angled cantilever bracket structure <b>31</b> secured along the longitudinal back wall <b>32</b> of the housing trough <b>11</b> having a plurality of extending support arms <b>33</b> each mechanically coupled to a corresponding vertical actuator arm <b>34</b>, and a longitudinal actuator, box beam <b>36</b> mechanically fastened proximate the distal ends <b>37</b> of each vertical actuator arm <b>34</b>. Each vertical actuator arm <b>34</b> of the cantilever bracket structure <b>31</b> is mechanically coupled with a hinge pin assembly <b>38</b> at its top end <b>39</b> that in-turn is securely anchored at the top the back wall <b>32</b> of the housing trough <b>11</b> preferably in a recess cut into the top surface of the back wall <b>32</b> beneath the pool deck <b>41</b>.</p>
+<p id="p-0032" num="0039">Alternatively, each vertical actuator arm <b>34</b> of the cantilever bracket structure <b>31</b> may be movably secured and supported on a downwardly extending, inclined track structures <b>42</b> fastened at the top the back wall <b>32</b> of the trough <b>11</b>, and statically supported on the trough bottom.</p>
+<p id="p-0033" num="0040">The front longitudinal seating structure(s) <b>27</b> of the pool-deck lid <b>28</b> are mechanically fastened proximate to, and hanging from the extending distal ends <b>43</b> of the plurality of extending support arms <b>33</b> of the cantilever structure <b>31</b>. Removable modular deck-lid top plates <b>44</b> are statically supported on top of, and, at least, between each pair of the extending support arms <b>33</b>. The modular deck-lid top plates <b>44</b> comprise a bottom &#xbc;&#x2033; steel plate <b>46</b> spanning between at least two of the extending support arms <b>33</b> and extending from the back wall <b>32</b> of the trough over and just beyond the front longitudinal seating structure <b>27</b> having a depending, front L-lip <b>47</b> that both stiffens the front edge of the plate <b>46</b> and supports coping material integrating the poolside edge of the pool-deck lid <b>28</b> with the above water sides of the pool <b>16</b>. (See <figref idref="DRAWINGS">FIGS. 4</figref><i>b</i>, <b>5</b><i>b</i>, &#x26; <b>5</b><i>c</i>.) The steel plates <b>46</b> may be further stiffened against bowing flexure between the extending support arms <b>33</b> by a Z-bar clip <b>48</b> and one or more L-angle bars <b>50</b> welded across the bottom face of the plate as shown in <figref idref="DRAWINGS">FIG. 5</figref><i>c. </i></p>
+<p id="p-0034" num="0041">As shown in <figref idref="DRAWINGS">FIGS. 4 &#x26; 5</figref> the steel plates <b>46</b> have depending, rear edge L-lips <b>49</b> and depending front lips <b>51</b> for stiffening the plates <b>46</b> against bowing flexure between the extending support arms <b>33</b>. The depending front lips <b>51</b> include mounting holes <b>52</b>, enabling the plate <b>46</b> to be held in place with screws or equivalent fasteners <b>53</b> to depending, front seating structures <b>27</b> of the pool-deck lid <b>28</b> fastened at the distal ends <b>43</b> of the extending support arms <b>33</b>. Conventional flat head bolt/fasteners <b>54</b> also secure thick deck, coping stones/materials <b>56</b> to the steel plates <b>46</b> via conical holes <b>56</b> drilled into and through their bottom faces. Similarly, the front seating structure(s) <b>27</b> can be correspondingly secured to the distal end <b>43</b>, underside of each pair of extending support arms <b>33</b> by conventional flat head bolt/fasteners <b>54</b> via conical holes drill into and through the top surfaces of the distal ends <b>43</b>.</p>
+<p id="p-0035" num="0042">In the embodiment illustrated in <figref idref="DRAWINGS">FIGS. 4</figref><i>b </i>&#x26; <b>5</b><i>b</i>, where the pool deck <b>41</b> surrounding the pool <b>16</b> has a thin finish surface material (tile, slate, or wood) holding pins <b>58</b> may welded to the bottom surface of the steel plates <b>46</b> located to register and drop into locator holes <b>59</b> drilled in to the top surface of the front longitudinal seating structure <b>27</b> between each pair of extending support arms <b>33</b>. For holding the modular deck-lid top in place, i.e., from sliding transversely toward or away from the pool <b>16</b>.</p>
+<p id="p-0036" num="0043">The steel plate <b>46</b>, rear edge L-lips <b>49</b> of the modular deck-lid top plate <b>44</b> shown in <figref idref="DRAWINGS">FIGS. 4 &#x26; 5</figref> and the Z-bar clip <b>48</b> of the modular deck-lid top plate <b>44</b> shown in <figref idref="DRAWINGS">FIGS. 4</figref><i>b</i>, <b>5</b><i>b</i>, &#x26; <b>5</b><i>c </i>are adapted and located for capturing latch pins <b>61</b> extending out from each side of each extending support arm <b>33</b> are welded or otherwise secured to each support arm <b>33</b>, between midpoint and the back end of the support arm <b>33</b>. Maintenance access to the trough housing <b>11</b>, the front longitudinal seating structure <b>27</b> and the structured top surface <b>26</b> of the pool end wall <b>24</b> is afforded by simply lifting the front edge of one or more of the modular deck-lid top plates <b>44</b> (after removal of screws/fasteners <b>53</b>, if any (<figref idref="DRAWINGS">FIG. 5</figref> vs. <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>) tilting/pivoting the particular modular deck-lid top plate on the latch pins <b>61</b> captured respectively by either the depending rear edge L-lip <b>49</b> of the steel plate of <figref idref="DRAWINGS">FIGS. 4 &#x26; 5</figref> or by the welded Z-bar clip <b>48</b> welded across the bottom surface of the steel plate <b>46</b> of <figref idref="DRAWINGS">FIG. 5</figref><i>c</i>. If necessary the modular deck-lid top plates <b>44</b> can be moved off of the cantilever bracket <b>31</b>, and the mechanical couple between respective extending support arms <b>33</b> and corresponding vertical actuator arms can be uncoupled and removed as needed to gain greater access to the cover drum <b>12</b>, the cable reels <b>13</b>, the pool cover <b>14</b> and other components of the pool cover system housed in the below-deck housing trough <b>11</b>, e.g., cabling, pulleys, and hydraulic lines, manifolds, motors and actuators.</p>
+<p id="p-0037" num="0044">Turning now to <figref idref="DRAWINGS">FIGS. 2 &#x26; 6</figref> showing details of, and the actuating components allowing, and pivoting the cantilever bracket structure <b>31</b>, each extending support arms <b>33</b> of the cantilever bracket structure <b>31</b> comprises a inverted flat-faced steel L-beam <b>71</b> with a conventional planer steel inside-corner reinforcement plate <b>72</b> perpendicularly welded in the corner of the L-beam, at the center line of the L-beam <b>71</b>. The vertical actuator arms <b>34</b> of the cantilever bracket structure <b>31</b> each comprise conventional steel U-beams <b>73</b> with the legs of the beam at the top end <b>39</b> adapted for pivotally coupling with a hinge pin assembly <b>38</b> conventionally anchored to the top of the back wall <b>32</b> of the housing trough <b>11</b> below the pool deck <b>41</b>. The foot of the inverted L-beam <b>71</b> of the extending support arm <b>33</b> is conventionally bolted to the to the outside planar base face, at the top end <b>39</b> of the U-beam <b>73</b>. Care should be taken to provide both a common pivoting axis when locating and anchoring the hinge assemblies <b>38</b> on top of the back wall <b>32</b> of the housing trough <b>11</b>, and adequate clearance between the modular deck-lid top plate <b>44</b> being pivoted and the pool deck <b>41</b> adjacent the back of the housing trough.</p>
+<p id="p-0038" num="0045">Further, pool cover systems typical include pulley systems for directing cabling along the back wall <b>32</b> of the housing trough <b>11</b> connecting between on or more cable reels housed within the trough <b>11</b> and sliders <b>19</b> carrying the leading edge beam <b>17</b> anchored to the front corners of the pool cover <b>14</b>, sliding in pool cover tracks <b>21</b> along opposite pool sidewalls <b>18</b> that exit the pool cover tracks <b>21</b> at opposite ends into the housing trough <b>11</b> along the back wall <b>32</b> of the trough <b>11</b>. [See Applicant's U.S. Pat. No. 4,939,798, <figref idref="DRAWINGS">FIG. 1</figref>, &#x26; Col. 17, 11. 37-61 and U.S. Pat. No 5,184,357, <figref idref="DRAWINGS">FIG. 1</figref> &#x26; Col 2, 11. 6-17.] Also lines for hydraulically actuated pool cover components are often secured along the back wall of housing troughs <b>11</b>. Accordingly, it may be necessary to provide cabling ports <b>74</b> cut through, and/or reliefs <b>75</b> cut out the legs of the U-beam <b>73</b> to accommodate cabling paths and hydraulic lines located adjacent to, and/or fastened on the back-wall <b>32</b> of the housing trough <b>11</b>.</p>
+<p id="p-0039" num="0046">Looking at <figref idref="DRAWINGS">FIG. 6</figref>, an actuator box beam <b>36</b> is mechanically fastened with bolts <b>77</b> extending transversely through the beam to the outside planar base face, at the distal end <b>37</b> of each U-beam <b>73</b> vertical actuator arm <b>34</b> completing the cantilever bracket structure <b>31</b>. In more detail, the actuating box beam <b>36</b> can be a single rectangular steel tube or formed from several rectangular steel, tubular sections with end flanges <b>78</b> connected together with bolts <b>79</b> that would permit easy field assembly. The actuator box beam <b>36</b>, whether a single, or bolted together in sections, when bolted to the bottom ends <b>37</b> of the vertical actuator arms <b>34</b>, provides, in combination with the anchored hinge pin assemblies at the top of the back wall <b>32</b> of the housing trench <b>11</b> mechanically coupled to the top ends <b>39</b> of the vertical actuator arms <b>34</b>, a tiltable rigid rectilinear frame with extending support arm <b>33</b>, i.e. a tiltable cantilever structure <b>31</b>.</p>
+<p id="p-0040" num="0047">Equivalently, the adjustment assembly <b>83</b> could comprise a threaded adjustment rod or bolt <b>84</b> screwing coaxially into and out of the piston <b>85</b> of any particular single action, short thrust, hydraulic cylinder <b>81</b> that engages the opposing face/wall of the actuator box beam <b>36</b>.</p>
+<p id="p-0041" num="0048">In particular, as described and shown in <figref idref="DRAWINGS">FIGS. 2</figref>, &#x26; <b>6</b>, the cantilever bracket structure <b>31</b>, when constructed in the field, comprises a combination of separate rigid elements, namely, the hinge pin assemblies <b>38</b> rigidly anchored to the back wall <b>32</b> of the housing trough <b>11</b>, the U-beam vertical actuators <b>34</b> pivotally coupled to the fixed hinge pin assemblies <b>38</b>, the actuator box beam bolted at the distal or bottom ends <b>37</b> of the vertical actuators <b>34</b>, and the inverted flat L-beams <b>71</b> of extending support arms <b>33</b> bolted at the top ends <b>39</b> of the vertical actuator arms <b>34</b>. The purpose of the described cantilever bracket structure <b>31</b> is a tiltable structure, that, in combination with the front longitudinal seating structure(s) <b>27</b> fastened depending at the ends <b>43</b> of support arms <b>33</b>, provides rigid static support bridging between the common below-deck end wall <b>24</b> and back wall <b>32</b> the housing trough <b>11</b>.</p>
+<p id="p-0042" num="0049">Looking at <figref idref="DRAWINGS">FIGS. 2 and 6</figref>, the cantilever bracket structure <b>31</b> is tilted upward by one or more single action, short thrust, hydraulic actuator cylinders <b>81</b>, secured to, and resting on the back wall <b>32</b> of the trough housing <b>11</b> located such that the piston heads <b>82</b> extending from the hydraulic actuators <b>81</b> to engage adjustment assemblies <b>83</b> positioned on, and integral with the actuator box beam <b>36</b> located between one or more pairs of the vertical actuator arms <b>34</b>.</p>
+<p id="p-0043" num="0050">In more detail, each adjustment assembly <b>83</b> includes a threaded adjustment rod or bolt <b>84</b> with a head <b>86</b> axially aligned with the head <b>82</b> of the piston <b>85</b> of a particular single action, short thrust, hydraulic actuator cylinder <b>81</b>. The threaded adjustment rod/bolts <b>84</b> extend via an adjustment port <b>87</b> drilled through wall side of the box beam <b>36</b> helically screwing through a nut <b>87</b> welded on the outside wall surface of the beam <b>36</b> opposite the hydraulic actuators <b>81</b>. The adjustment port ideally should have a diameter greater than both the diameter of rod/bolt head <b>86</b> and piston head <b>82</b> of the hydraulic actuator cylinder <b>81</b> to increase the range of possible adjustment. Lock nuts are screwed onto the emerging shanks of the adjustment rod/bolts <b>84</b> for setting the adjustment for each particular single action, short thrust, hydraulic actuator cylinders <b>81</b>.</p>
+<p id="p-0044" num="0051">In particular, the object is to only &#x2018;tilt-and-hold&#x2019; pool-deck lid <b>28</b> supported by the cantilever bracket structure <b>31</b> tilted upward, lifting the depending front seating structure(s) <b>27</b> off the receiving top surface <b>26</b> of the end wall <b>24</b> sufficiently to assure release and, free, unencumbered, extension and retraction travel of the pool cover and any other traveling pool cover elements that may be clamped, sandwiched or held between the front longitudinal seating structure(s) <b>27</b> of the resting pool-deck lid <b>28</b> and the underlying top surface <b>26</b> of the end wall <b>24</b>. However, remember and appreciate, as with most in field constructions, spacing between the housing trough back wall <b>32</b> and the actuator box beam <b>36</b> will invariably be different at different points along the length of the actuator beam <b>36</b> despite efforts to achieve precision. Also the throws or reach of hydraulic actuators even from a common manufacturer are never precisely the same. Also it can advantageous to be able to use hydraulic actuators with different throws and from different manufacturers. The described adjustment assemblies <b>83</b> preferably are adjusted to permit full extension of each of the piston heads of the single action, hydraulic actuators <b>81</b> tilting the cantilever bracket structure <b>31</b>. Full extension of hydraulically and pneumatically single action pistons within actuating cylinders increases pressure within such powered systems. If the hydraulic/pneumatic power source provides fluid pressure greater than that necessary to effect full extension of the particular, or set of such particular piston actuators, the change in pressure provides a means for holding extension of the particular or set of such particular piston actuators, e.g., those tilting the pool deck lid <b>28</b>, while driving other component in the involved system requiring higher hydraulic or pneumatic pressure. Discussion and description of implementations of hydraulic/pneumatic systems using such pressure parameters for sequentially tilting the pool-deck lid <b>28</b> and extending and retracting the pool cover <b>14</b> with reversible hydraulic/pneumatic powered pool cover system are presented below.</p>
+<p id="p-0045" num="0052">Turning now <figref idref="DRAWINGS">FIGS. 7-10</figref>, showing various structural features integrating the pool-deck lid <b>28</b> leading edge beam <b>17</b> with the top surface <b>26</b> of the below-deck pool end wall <b>24</b> between the pool <b>16</b> and housing trough <b>11</b>, reference should first be made to Applicant's U.S. Pat. No. 4,939,798, particularly Col. 10, L. 2-Col. 11, L. 27 describing the necessary features of a structural boom or beam supported by sliders <b>19</b> for carrying the fronts of pool covers back and forth across a pool. <figref idref="DRAWINGS">FIGS. 7 &#x26; 7</figref><i>a </i>show an extruded leading edge beam <b>17</b> structure as taught in U.S. Pat. No. 4,939,798 differing only in orientation. The poolside top of the end wall <b>24</b> has a rectilinear cut-out or step down volume <b>91</b> dimensioned for receiving the leading edge beam <b>17</b> and an attached right-angle fascia structure <b>92</b> integrating the appearance of the poolside front surface of the beam <b>17</b> with that of the pool walls <b>18</b> &#x26; <b>24</b> when the pool cover <b>14</b> is fully retracted. Rearward, a tailored, longitudinal, seating block <b>93</b> is mounted across, on the top step <b>94</b> of the end wall <b>24</b>. The seating block <b>93</b> has a rounded, longitudinal rear wear-edge that abuts against and smoothes the undersurface of the pool cover <b>14</b> as it is wound and unwound from around the cover drum <b>12</b>. The seating block <b>93</b> should be composed of an ultra-high-molecular-weight (UHMW) plastic or a dense plastic material such as polyoxymethylene (POM) that has high stiffness, low friction and excellent dimensional stability, marketed by DuPont under the Trademark Delrin&#xae;. The front longitudinal seating structure(s) <b>27</b> of the pool-deck lid <b>28</b> fastened hanging from the extending distal ends <b>43</b> of the extending support arms <b>33</b> seat directly on the tailored seating block <b>93</b> when the pool-deck lid is closed&#x2014;not tilted up. The front longitudinal seating structure(s) <b>27</b> (<figref idref="DRAWINGS">FIGS. 4</figref>, <b>4</b><i>b</i>, <b>11</b> &#x26; <b>21</b>) preferably should also be composed of a UHWM plastic material or POM that have high stiffness, low friction and excellent dimensional stability.</p>
+<p id="p-0046" num="0053">The leading edge beam <b>17</b> also carries bumper stops <b>97</b> fastened below the back C-channel <b>22</b> preferably at the respective ends of the beam <b>17</b>. Bumpers stops <b>97</b> may also be similarly mounted at various points along the leading edge beam <b>17</b> between the ends. As shown the bumper stops <b>97</b> should extend out from the tubular beam body to just beyond the front edge of the back C-channel edge <b>22</b> of the leading edge beam <b>17</b> to prevent deformation of the C-channel due to impacts against the front top edge of the longitudinal seating block <b>93</b> that the pool cover <b>14</b> slides over as it winds and unwinds from around the cover drum <b>12</b> in the housing trough <b>11</b>. Suitable bumper stops <b>97</b> should be composed of a relatively stiff, resilient inert material like silicone rubber or POM.</p>
+<p id="p-0047" num="0054"><figref idref="DRAWINGS">FIGS. 8 &#x26; 9</figref> illustrate features of a right-angle, extruded leading edge beam <b>17</b><i>a </i>with a longitudinal, rear edge C-channel <b>22</b> having a stop-land shoulder <b>98</b> extending from the base of the C-channel below the plane of the horizontal beam leg <b>99</b> of the right-angle leading edge beam <b>17</b><i>a</i>. In the embodiment shown in <figref idref="DRAWINGS">FIG. 8</figref>, the stop-land shoulder <b>98</b> engages or strikes the front face of the seating block <b>93</b> establishing the fully retracted position of the pool cover <b>12</b> with the horizontal leg <b>99</b><i>a </i>of the leading edge beam <b>17</b><i>a </i>extending into the rectilinear cut-out or step down volume <b>91</b> with the vertical leg <b>100</b> of the lead leading edge beam <b>17</b><i>a </i>extending down adjacent to and overlapping the poolside face of the end wall <b>24</b> below the step down volume <b>91</b>. In the embodiment for vinyl liner pools shown in <figref idref="DRAWINGS">FIG. 9</figref>, the vertical leg <b>100</b> of the lead leading edge beam <b>17</b><i>a </i>extends down adjacent to, and overlaps and conceals a special extrusion <b>102</b> topping the below-deck end wall <b>24</b> for securing a conventional vinyl pool liner <b>103</b>. The front poolside face of vertical legs <b>100</b> of such extruded right-angle leading edge beams <b>17</b><i>a </i>may also present fascia <b>101</b> integrating with the appearance of the of the pool walls <b>18</b> &#x26; <b>24</b> when the pool cover <b>14</b> is fully retracted.</p>
+<p id="p-0048" num="0055">Additionally, the above described right-angle, leading edge beams <b>17</b><i>a </i>eliminate the necessity for connecting plates <b>37</b> between the beam structure and the sliders <b>19</b> per the teachings of Applicant's U.S. Pat. No. 4,939,798, [See <figref idref="DRAWINGS">FIGS. 5 &#x26; 8</figref>]. In particular, the longitudinal, rear edge C-channel <b>22</b> and depending a stop-land shoulder <b>98</b> of the horizontal leg <b>99</b><i>a </i>and vertical leg <b>99</b><i>b </i>of the beam extrusion <b>17</b><i>a </i>can be cut away at the beam ends as shown in <figref idref="DRAWINGS">FIG. 10</figref> providing extending planer plates that are easily adapted for connection to the sliders <b>19</b> with a pin or bolt <b>95</b> as taught by the Applicant in his U.S. Pat. No. 4,939,798. [See <figref idref="DRAWINGS">FIG. 8</figref> and discussion at Col. 10 LL. 12-25].</p>
+<p id="p-0049" num="0056">Pool decks <b>41</b> vary significantly in thickness depending on the surface desired, e.g. coping stone or tile. Also pools <b>16</b>, housing troughs <b>11</b> are constructed and components of pool cover systems are assembled in the field. Variations in elevation between cooperating elements of the constructed pool and housing trough, and components of the pool cover system assembled/installed in the constructed pool and housing trough will invariably occur. The thickness of the longitudinal <b>93</b> seating block mounted on top of the end wall <b>24</b> can not be easily adjusted, just changed. However, the elevation of the front seating structure(s) <b>27</b> supported depending from the support arms <b>33</b> of the cantilever bracket structure <b>31</b> can be adjusted as illustrated in <figref idref="DRAWINGS">FIGS. 11 and 12</figref>.</p>
+<p id="p-0050" num="0057">In particular, <figref idref="DRAWINGS">FIGS. 4</figref>, <b>4</b><i>b</i>, <b>5</b>, <b>5</b><i>b</i>, <b>11</b> &#x26; <b>12</b> show front seating structure(s) <b>27</b> comprised of a plurality of longitudinally aligned hexahedral POM planks <b>27</b><sub>i </sub>each conventionally secured between each pair of support arms <b>33</b> to underside, near the ends of the inverted L-beams <b>76</b> of the support arms <b>33</b>. <figref idref="DRAWINGS">FIGS. 11 and 12</figref> show an additional plurality of adjustment or shimming blocks <b>106</b> of POM bridging over adjacent ends, and adjustably fastened to the underside of respective POM planks <b>27</b><sub>i </sub>&#x26; <b>27</b><sub>ii </sub>secured to each inverted L-beam <b>76</b>. A shimming block <b>106</b> is securing at each end by allen head setting screws <b>107</b> countersunk through the L-beam <b>76</b> into the surfaces of the respective underlying POM planks <b>27</b><sub>i </sub>&#x26; <b>27</b><sub>ii </sub>received in threaded holes <b>108</b> drilled into the top surface <b>109</b> of the particular shimming block <b>106</b>. The elevations and angular orientations of the bottom planar surface <b>111</b> of the respective shimming blocks <b>106</b> relative to the top of the longitudinal seating block <b>93</b> on the pool end wall <b>24</b> is adjusted with 2 pairs of adjustment allen screws <b>112</b> similarly received in threaded holes <b>108</b> drilled into the top surface <b>109</b>, at each end of the particular adjustment block <b>106</b>.</p>
+<p id="p-0051" num="0058">As illustrated the heads <b>113</b> of the adjustment allen screws <b>112</b> extend above the top surface <b>109</b> of the shimming blocks <b>106</b> and are received seated in stepped holes <b>114</b> drilled into the bottom surface <b>114</b> of the overlying POM planks <b>27</b><sub>i </sub>&#x26; <b>27</b><sub>ii</sub>. The heads <b>112</b> of the adjustment allen screws <b>112</b> seat on the annular shoulder of the stepped holes <b>114</b>. Access to the heads <b>112</b> of the adjustment allen screws <b>111</b> is afforded by drilling access ports <b>116</b> through the overlying L-beam <b>76</b>. Equivalently, the stepped holes <b>114</b> receiving and seating the heads <b>113</b> of the adjustment allen screws <b>112</b> could be provided by drilling a holes completely through the overlying POM planks <b>27</b><sub>i </sub>&#x26; <b>27</b><sub>ii </sub>sized to receive the heads <b>112</b> of the adjustment allen screws <b>111</b> extending up from the shimming block <b>106</b> and drilling access ports <b>114</b> through the overlying L-beam <b>76</b> sized smaller than the heads <b>112</b> of the adjustment allen screws <b>111</b>.</p>
+<p id="p-0052" num="0059">In either case, the elevation and angular orientation of the planer bottom surface <b>111</b> of the shimming block <b>106</b> can be adjusted by:
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0000">
+    <ul id="ul0005" list-style="none">
+        <li id="ul0005-0001" num="0060">a) seating the front seating structure(s) <b>27</b> of the pool-deck lid <b>28</b> on the longitudinal seating block <b>93</b> mounted on top of the pool end wall <b>24</b>;</li>
+        <li id="ul0005-0002" num="0061">b) removing one or more of the overlying deck-lid top plates <b>44</b> from the support arms <b>33</b>;</li>
+        <li id="ul0005-0003" num="0062">c) loosening or removing the allen head setting screws <b>107</b> countersunk through a particular L-beam <b>76</b> into the surface of underlying adjacent POM planks <b>27</b><sub>i </sub>&#x26; <b>27</b><sub>ii</sub>, securing a selected shimming blocks <b>106</b>;</li>
+        <li id="ul0005-0004" num="0063">d) adjusting the elevation of each corner of the selected shimming block <b>106</b> with the adjustment allen screws <b>111</b> such that each corner of the shimming block <b>106</b> to just engages the surface of the longitudinal seating block <b>93</b> mounted on top of the pool end wall <b>24</b> for orienting bottom planar surface <b>111</b> of the shimming block <b>106</b> to the planer orientation of the top of the seating block <b>93</b>;</li>
+        <li id="ul0005-0005" num="0064">e) conforming elevation of each inverted L-beam of each pair of support arms <b>33</b> supporting a front seating structure <b>27</b> by simultaneously adjustment of one or more of the pairs of adjustments screws at the respective ends of the respective shimming blocks <b>106</b> via access ports;</li>
+        <li id="ul0005-0006" num="0065">f) inserting and/or tightening the allen head setting screws <b>107</b> securing the selected shimming block <b>106</b> at the particular conforming elevations and bottom surface orientations.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0006" level="1">Hydraulic/Pneumatic Systems</heading>
+<p id="p-0053" num="0066">It is well recognized by engineers and designers that designs for hydraulic or pneumatic actuation systems typically have hydraulic or pneumatic components are equivalent in that components in pneumatic systems will perform substantially the same functions, in substantially the same ways to achieve substantially the same results as the hydraulic counterparts of those components in hydraulic systems with essential one fundamental difference. Hydraulic fluid is liquid thus incompressible, while pneumatic fluids are gas thus compressible. In context of the Applicant's present A<smallcaps>UTOMATED </smallcaps>P<smallcaps>OOL</smallcaps>-D<smallcaps>ECK </smallcaps>L<smallcaps>ID </smallcaps>L<smallcaps>IFT </smallcaps>S<smallcaps>YSTEM FOR </smallcaps>B<smallcaps>ELOW </smallcaps>D<smallcaps>ECK </smallcaps>P<smallcaps>OOL </smallcaps>C<smallcaps>OVER </smallcaps>H<smallcaps>OUSING </smallcaps>T<smallcaps>ROUGHS</smallcaps>, hydraulic actuations systems are preferred because the force driving and supporting actuated components is static in a liquid full system, whereas in a comparable pneumatic system, the force driving and supporting components is not, but rather is a function varying with load and system volume. Accordingly, the schematically actuation control schemes of <figref idref="DRAWINGS">FIGS. 1</figref><i>a</i>, <b>1</b><i>b</i>, <b>1</b><i>c</i>, &#x26; <b>1</b><i>d </i>for synchronizing raising and closing the pool-deck-lid <b>28</b> with hydraulically actuated pool cover systems for extending and retracting a pool cover <b>14</b> back and forth across a pool <b>16</b>.</p>
+<p id="p-0054" num="0067"><figref idref="DRAWINGS">FIG. 1</figref><i>a </i>schematically illustrates a dual, reversible hydraulic motor system described in Applicant's U.S. Pat. Nos. 5,184,357, 5,327,590 and his pending patent application published at US2008/0178587. The reversible hydraulic motors <b>12</b><i>m </i>and <b>13</b><i>m </i>respectively power and resist rotation of the cover drum <b>12</b> and the cable reel(s) <b>13</b> as indicated by lines connecting to the cover drum <b>12</b> and cable reel(s) <b>13</b>. As indicated, the reversible hydraulic motors <b>12</b><i>m </i>and <b>13</b><i>m </i>and associated anti-cavitation manifold <b>121</b> are housed in the housing trough <b>11</b> with the hydraulic actuator cylinders <b>81</b> tilting the pool-deck lid <b>28</b> covering the housing trough <b>11</b>. The hydraulic power source (a pump) <b>122</b>, the associated fluid reservoir <b>123</b>, a momentary electrical control <b>132</b>, a directional control valve <b>124</b>, pressure sequencing valves <b>126</b> and <b>127</b> are each remotely located, not in the housing trough but rather at a power pack location and control station. Hydraulic lines <b>128</b>, <b>129</b>, and <b>131</b> respective connect between the remote hydraulic power source <b>122</b> and the motors <b>12</b><i>m</i>, <b>13</b><i>m</i>, powering the cover drum <b>12</b> and cable reel(s) and hydraulic actuator cylinders <b>81</b> tilting the pool-deck lid <b>28</b>.</p>
+<p id="p-0055" num="0068">To retract the pool cover <b>14</b> from across the pool, a normally open momentary electrical control switch <b>132</b> that activates at either a left or right position is activated left and held (see arrows at <b>132</b>) turning on the hydraulic power source (pump) <b>122</b>, and shifts directional control valve <b>124</b> left <b>122</b> via electrical lines <b>134</b> and <b>135</b> connecting between the control station and the power pack locations for simultaneously supplying fluid and pressure to the single acting hydraulic cylinders <b>81</b> via hydraulic line <b>131</b> for tilting the pool-deck lid <b>28</b> up, and to reversible hydraulic motor <b>12</b><i>m </i>via hydraulic line <b>129</b> through power sequence valve <b>126</b> that blocks flow temporarily until a preset pressure level is reached. Accordingly the actuating pistons <b>85</b> of the single acting hydraulic cylinders <b>81</b> fully extend tilting the pool-deck lid <b>28</b> upward lifting its depending front seating structure(s) <b>27</b> off the receiving top surface <b>26</b> of the pool end wall <b>24</b> sufficiently to assure release and free, unencumbered, retraction travel of the pool cover before reversible hydraulic motor <b>12</b><i>m </i>is actuated.</p>
+<p id="p-0056" num="0069">Upon full extension of the actuating pistons <b>85</b> of the single acting hydraulic cylinders <b>81</b> there is a consequent increase of pressure within the hydraulic system. At the preset pressure, power sequence valve <b>126</b> releases allowing fluid flow and pressure to actuate (drive) reversible hydraulic motor <b>12</b><i>m </i>for rotating the cover drum <b>12</b> winding up the pool cover <b>14</b> retracting it and the leading edge beam <b>17</b> from across, uncovering the pool.</p>
+<p id="p-0057" num="0070">For extension of the pool cover <b>14</b>, the momentary electrical control switching <b>132</b> is held at the right position turning on the hydraulic power source (pump) <b>122</b> and shifts directional control valve <b>124</b> left via electrical lines <b>134</b> &#x26; <b>135</b> for simultaneously supplying fluid and pressure to the single acting hydraulic cylinders <b>81</b> via hydraulic line <b>131</b> again for tilting the pool-deck lid <b>28</b> up, and then to reversible hydraulic motor <b>13</b><i>m </i>via hydraulic line <b>130</b> through power sequence valve <b>127</b> that blocks flow temporarily until the preset pressure level is reached, allowing the single acting hydraulic cylinders <b>81</b> to first, fully tilt the pool-deck lid <b>28</b> back up lifting its depending front seating structure(s) <b>27</b> off the receiving top surface <b>26</b> of the pool end wall <b>24</b> sufficiently to assure release and free, unencumbered, extension travel of the pool cover <b>14</b> across the pool <b>16</b>. Upon full extension of the actuating pistons <b>85</b> of the single acting hydraulic cylinders <b>81</b> there is again a consequent increase of pressure within hydraulic the hydraulic system. At the preset pressure, power sequence valve <b>127</b> releases and fluid flow and pressure for actuating and driving reversible hydraulic motor <b>13</b><i>m </i>rotating the cable reel(s) unwinding the pool cover <b>14</b> from around the cover drum <b>12</b> extending the cover and the leading edge beam <b>17</b> back across the pool <b>16</b> to, the opposite end wall covering the pool <b>16</b>.</p>
+<p id="p-0058" num="0071">Release of the momentary electrical control switch <b>132</b> held at either the left or right position, cuts electrical power to the hydraulic power source (pump) <b>122</b> turning it off, and to the directional control valve <b>124</b> which returns to its normally center position permitting fluid flow from actuated components of system to the fluid reservoir <b>123</b> via hydraulic lines <b>129</b>, <b>130</b> and <b>131</b>. Accordingly, the fluid in actuated ingle acting hydraulic cylinders <b>81</b> statically resisting the force of gravity and mass (weight) of the tilted pool-deck lid <b>28</b> is drains to reservoir <b>123</b> from the hydraulic cylinders <b>81</b> and the actuating pistons <b>85</b> sink back into the hydraulic cylinders <b>81</b> at a rate determined the flow rates allowed by hydraulic line <b>131</b> connecting through the directional control valve <b>124</b> to reservoir <b>133</b>. As the hydraulic fluid exhausts from the hydraulic cylinders <b>81</b>, the pool-deck lid <b>28</b> gradually tilts back to a down position where the front longitudinal seating structures <b>27</b> seats on the pool cover <b>14</b> and the underlying longitudinal seating block <b>93</b> on top of the pool end wall <b>24</b>. In the down position, the pool-deck lid <b>28</b> statically rests solidly on the pool end wall <b>24</b> and the hinge pin assemblies anchored on the back wall <b>32</b> of the housing trough <b>11</b>. The pool cover <b>15</b>, whether at the fully retracted position, or at the fully extended position, or anywhere in between is clamped, sandwiched between seating block <b>27</b> on top of the pool end wall <b>24</b> and the depending poolside front longitudinal seating structures(s) <b>27</b> of the pool-deck lid <b>28</b> statically resting solidly on that end wall <b>24</b>.</p>
+<p id="p-0059" num="0072">Normally open, momentary, control switching systems, whether electrical, hydraulic pneumatic, or a combination thereof for activating and interrupting extension and retraction of powered pool cover systems is a prescribed best pool safety practice that requires an observing human presence for manually initiating, and for controlling extension and retraction travel of a pool cover over a pool.</p>
+<p id="p-0060" num="0073"><figref idref="DRAWINGS">FIG. 1(</figref><i>b</i>) is a schematic of a dual, reversible hydraulic motor system described in Applicant's U.S. Pat. Nos. 5,184,357, 5,327,590 and his pending patent application published at US2008/0178587 with a shuttle valve <b>136</b> located in the housing trough <b>11</b> that eliminates the hydraulic line <b>131</b> connecting between the remote power pack location and the hydraulic actuator cylinders <b>81</b>. Upon pressurizing either line <b>129</b> or <b>130</b>, either line <b>138</b> or line <b>139</b> connecting to shuttle valve <b>136</b> are respectively pressurized, shifting the shuttle ball <b>137</b> respectively to the right or left to block flow to the right or left side of the hydraulic circuit energizing the reversible hydraulic motors <b>12</b><i>m </i>&#x26; <b>13</b><i>m</i>, but allows flow to line <b>8</b> to actuate the cylinder <b>20</b>. Sequence valve <b>11</b> does not allow flow to the pool cover drive motor <b>15</b> until the cylinder <b>20</b> reaches full extension and causes the system pressure to rise to the preset point where flow is allowed to the pool cover drive motor <b>15</b>.</p>
+<p id="p-0061" num="0074"><figref idref="DRAWINGS">FIG. 1(</figref><i>c</i>) schematically presents a hydraulic system essentially the same as that show in <figref idref="DRAWINGS">FIG. 1(</figref><i>b</i>) except a reversible power pack is used instead of a directional control valve. The reversible power pack includes a reversible hydraulic pump <b>141</b> with pressure with relief valves <b>141</b><i>a </i>&#x26; <b>141</b><i>b </i>for relieving pressure in the respective legs above a set point, and is equipped with a dual coupled check valve mechanism <b>142</b> as described in Applicant's U.S. Pat. No. 7,155,910 to allow low pressure return fluid flow to reservoir <b>123</b>. In this system by the normally open, momentary, electrical control switch <b>124</b> directs electrical power to controlling the direction of reversible pump <b>141</b> and cuts power off to the pump upon returning to the open middle position allowing the hydraulic fluid to drain to reservoir <b>123</b>.</p>
+<p id="p-0062" num="0075"><figref idref="DRAWINGS">FIG. 1(</figref><i>d</i>) is schematic illustrating the elements of a suitable hydraulic system powered by a single reversible hydraulic pool cover drive motor <b>146</b> coupled to a reversing clutch device <b>147</b> as described in U.S. Pat. No. 5,913,613, Ragsdale et al, for alternatively rotating the cover drum <b>12</b> or the cable reel(s) <b>13</b> for retracting and extending the pool cover <b>14</b>. As with the dual, reversible hydraulic motor systems described above, flow of pressurized hydraulic fluid is initially directed by one or the other the pressure sequencing valves <b>126</b> and <b>127</b> to the hydraulic actuators <b>81</b> tilting the deck lid up that then open at a preset pressure to directing the higher pressure hydraulically fluid to appropriately drive the reversible hydraulic motor <b>146</b> for rotating the cover drum <b>12</b> or the cable reel(s) <b>13</b> for retracting or extending the pool cover <b>14</b> back and forth across the pool <b>16</b>.</p>
+<p id="p-0063" num="0076">In each the hydraulic system schematically illustrated in <figref idref="DRAWINGS">FIGS. 1</figref><i>a</i>, <b>1</b><i>b</i>, <b>1</b><i>c</i>, &#x26; <b>1</b><i>d</i>, once powered by pumped hydraulic fluid each system pressurizes and fully extends and holds the pistons <b>85</b> in the set of single action hydraulic actuator cylinders <b>81</b> tilting and statically holding the pool-deck lid tilted-up until hydraulic power (pumped hydraulic fluid) is interrupted, and then allows gravity and the mass of the pool deck lid <b>28</b> to force (push) the pistons <b>85</b> back into the respective cylinders forcing flow of hydraulic fluid from the hydraulic actuator cylinders <b>81</b> to reservoir <b>123</b>.</p>
+<p id="p-0064" num="0077">From the above discussion, it should be further noted that each schematically illustrated hydraulic system is designed to power or drive a complete actuating action of first set of actuator components from a resting state to an actuated state at a first low pressure, then to power or drive a second set of actuator components at a higher pressure in the system induced by the completion of the actuating action of first set of actuator components, where the induced higher pressure holds or maintains the first set of actuator components at the actuated state action until the system is turned off, allowing the first set of actuator components to return to a resting state responsive to an external force. In this context, a hydraulic designer should consider, that in specifying components for hydraulic system for sequentially supporting, opening and closing a pool-deck lid covering below-deck troughs housing coordinated with operation of a powered pool cover system as described herein to:
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0000">
+    <ul id="ul0007" list-style="none">
+        <li id="ul0007-0001" num="0078">1. the approximate weight (mass) of a proposed pool-deck lid structure and possible one or more people standing on the pool-deck lid structure over the blow-deck housing trough proposed to be lifted or tilted;</li>
+        <li id="ul0007-0002" num="0079">2. the number and lifting of single action hydraulic actuator cylinders required for lifting or tilting that approximate mass at a low pressure, e.g. 400-500 psi, below that at which hydraulic pool cover system normally operate (70-1500 psi);</li>
+        <li id="ul0007-0003" num="0080">3. the rate of extension, the support capacity, and the piston extension required of the actuating cylinders necessary to smoothly and sufficiently lift, or tilt and hold the lid in the above the supporting wall between the pool and housing trough without excessive jarring; and</li>
+        <li id="ul0007-0004" num="0081">4. the rate of piston return into the hydraulic cylinders and capacity of the hydraulic lines draining hydraulic fluid from the cylinders back to reservoir on termination of hydraulic power
+<br/>
+The designer should also note appreciate that the pistons of the hydraulic actuator cylinders may not completely or be equally retracted into the respective cylinders the pool-deck lid descends or tilts back into to rest is front edge on the below deck pool end wall between the pool and the trough housing, thus, the necessity for adjustment assembly <b>83</b> as discussed above.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A pool-deck lid lift system for below-deck troughs housing pool cover systems for pools, comprising in combination:
+<claim-text>(i) a pool-deck lid with removable modular deck-lid top plates bridging over a below-deck tough housing, having a front, longitudinal seating structure adapted to rest on pool cover elements of a pool cover system, statically supported on top of a below-deck pool sidewall beneath a pool cover element located between the pool and the below-deck housing trough over which the pool cover elements extend from, and retract back into the below-deck housing for covering and uncovering the pool;</claim-text>
+<claim-text>(ii) an upwardly movable, cantilever bracket structure secured along a longitudinal back wall of the housing trough having a plurality of extending support arms extending across the trough for supporting the longitudinal lid seating structure and the modular deck-lid top plates, and having a plurality of actuator arms extending vertically downward adjacent the back wall of the housing trough, all fastened to a common longitudinal actuator beam;</claim-text>
+<claim-text>(iii) hydraulic/pneumatic means mechanically coupled between the common longitudinal actuator beam of the cantilever bracket structure and a solid, static inside surface of the housing trough for lifting the front longitudinal seating structure of the pool-deck lid up off the pool cover element between the longitudinal seating structure and the supporting top of the below-deck pool sidewall beneath the pool cover element to allow extension and retraction of the pool cover elements covering and uncovering the pool; and</claim-text>
+<claim-text>(iv) a hydraulic/pneumatic actuation control means for powering the deck-lid system and the pool cover system housed in the below-deck housing trough, coupled for sequentially:
+<claim-text>a. lifting the front, longitudinal seating structure of the pool-deck lid up off the travelling pool cover element between the front longitudinal seating structure and the supporting top of the supporting below-deck pool sidewall beneath the pool cover element, then</claim-text>
+<claim-text>b. energizing the pool cover system for extending and retracting the pool cover elements covering and uncovering the pool; then</claim-text>
+<claim-text>c. stopping extension and retraction of the pool cover elements between, and at extension and retraction end points, and</claim-text>
+</claim-text>
+<claim-text>d. allowing the lifted front longitudinal seating structure of the deck-lid supported by the cantilever bracket structure of the pool-deck lid lift system to re-seat on the pool cover element and the top of the below-deck pool sidewall beneath the pool cover element for support after travel of the pool cover elements has been stopped.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The pool-deck lid lift system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the cantilever bracket structure tilts upward, for lifting the front, longitudinal seating structure off of the top of the below-deck pool sidewall beneath the pool cover elements between the pool and the housing trough and includes:
+<claim-text>a) a plurality hinge pin assemblies rigidly anchored to the back wall of the housing trough,</claim-text>
+<claim-text>b) an U-beam vertical actuator arm pivotally coupled to the anchored hinge pin assemblies,</claim-text>
+<claim-text>c) an actuator box beam bolted at the distal or bottom ends of the vertical actuators,</claim-text>
+<claim-text>d) an inverted flat L-beam providing extending support arms bolted at the top ends of each vertical actuator arm,</claim-text>
+<claim-text>providing a structurally rigid, tilting structure, that, in combination with the front longitudinal seating structure fastened, depending at ends of support arms, provides rigid static support, when solidly seated for support on top of the below-deck pool sidewall beneath the travelling pool cover elements bridging over the housing trough between the below-deck pool sidewall and back wall of the housing trough.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The pool-deck lid lift system of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the front longitudinal seating structure fastened, depending at ends of support arms includes:
+<claim-text>e) a plurality of longitudinally aligned hexahedral UHMW plastic planks (P<sub>n</sub>) each conventionally secured underneath and between each pair of support arms near the ends of the inverted L-beams of the support arms,</claim-text>
+<claim-text>f) plurality of adjustment or shimming blocks of UHMW plastic bridging over adjacent ends, and adjustably fastened to the underside of respective pairs of UHMW plastic planks (P<sub>1 </sub>&#x26; P<sub>2</sub>) secured to each inverted L-beam at each end by allen head setting screws countersunk through the L-beam into underlying surfaces of the respective UHMW plastic planks (P<sub>1 </sub>&#x26; P<sub>2</sub>) received in threaded holes drilled into the top surface of the particular shimming block, and</claim-text>
+<claim-text>g) means for adjusting elevations and angular orientations of bottom planar surfaces of the respective shimming blocks relative to the top of a longitudinal seating block on top of the pool end wall.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The pool-deck lid lift system of <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the means for adjusting elevations and angular orientations of bottom planar surfaces of the respective shimming blocks comprises, in combination:
+<claim-text>h) two pairs of adjustment allen screws similarly received in spaced apart threaded holes drilled into, at each end of the particular adjustment block extending up from the top surface, having flat, circular heads of a particular size;</claim-text>
+<claim-text>j) step holes stepped in diameter drilled into bottom surfaces through the overlying UHMW planks (P<sub>1 </sub>&#x26; P<sub>2</sub>) each having a larger diameter bottom section sized for receiving heads of the adjustment allen screws and a smaller diameter top section sized for providing turning access to the top of the head of the adjustment allen screws located for receiving the adjustment allen screws extending up from the top surface of the particular adjustment block,</claim-text>
+<claim-text>k) access ports drilling through the overlying L-beam sized smaller than the heads of the adjustment allen screws registering with the step holes stepped in diameter drilled into bottom surfaces <b>114</b> through the underlying respective pairs of UHMW planks (P<sub>1 </sub>&#x26; P<sub>2</sub>), whereby
+<claim-text>the bottom surfaces bottom planar surfaces of the respective shimming blocks can be angularly oriented in space by turning each of the four adjustment allen screws adjusting the elevation of each head of the four the adjustment allen screws above the top surface of the shimming block, and</claim-text>
+<claim-text>the elevation of the bottom surfaces bottom planar surfaces of the respective shimming blocks can be adjusted relative to the top of the longitudinal seating block on top of the pool sidewall <b>24</b> by simultaneous turning of each pair of adjustment screws at each end of the particular shimming block, and then</claim-text>
+</claim-text>
+<claim-text>m) seating and setting the angular orientations and elevations of the respective shimming blocks <b>106</b> by turning the allen head setting screws countersunk through the L-beam for seating and securing the heads of the adjustment allen screws on annular steps of the step holes drilled through the overlying respective pairs of UHMW planks (P<sub>1 </sub>&#x26; P<sub>2</sub>) defined at the juncture of the larger sizes and smaller size sections of the stepped holes.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The pool-deck lid lift system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the hydraulic/pneumatic actuation control means for powering the deck-lid system and the pool cover system housed in the below-deck housing trough includes:
+<claim-text>(i) dual reversible hydraulic motors (M<sub>1 </sub>&#x26; M<sub>2</sub>) and an anti-cavitation manifold coupled for alternatively rotating gin a cover drum and cable reels for extending and retracting pool cover elements of the pool cover system and hydraulic actuator cylinders mechanically coupled for lifting the front, longitudinal seating structure of the pool deck-deck lid covering the housing trough, supported on top of the below-deck pool sidewall beneath the pool cover elements, all housed in the housing trough,</claim-text>
+<claim-text>(ii) a hydraulic power source remotely located at a power pack location,</claim-text>
+<claim-text>(iii) a fluid reservoir remotely located at the power pack location,</claim-text>
+<claim-text>(iv) a directional control valve located at the power pack location,</claim-text>
+<claim-text>(v) two pressure sequencing valves (V<sub>1 </sub>&#x26; V<sub>2</sub>) located in the housing trough hydraulically closed at pressures below a pre-determined threshold pressure (P<sub>T</sub>) and hydraulically open at a pressures above the predetermined threshold pressure (P<sub>T</sub>),</claim-text>
+<claim-text>(vi) a normally off, momentary electrical control located at a control station,
+<claim-text>(vii) hydraulic lines respectively connecting between the motors (M<sub>1 </sub>&#x26; M<sub>2</sub>), respectively though the pressure sequencing valves (V<sub>1 </sub>&#x26; V<sub>2</sub>) to the hydraulic power source powering rotation of the cover drum and cable reel(s) and extension of hydraulic actuator cylinder pistons for lifting the front, longitudinal seating structure of the pool-deck lid off the travelling pool cover element between the front longitudinal seating structure and the supporting top of the below-deck pool sidewall beneath the pool cover element up freeing the pool cover element move allowing extension and retraction of the pool cover elements,</claim-text>
+</claim-text>
+<claim-text>(viii) a shuttle valve (V<sub>s</sub>) having an open port, located in the housing trough for alternatively, hydraulically linking either hydraulic line to its open port serially connected between the remote hydraulic power source and the pressure sequencing valves (V<sub>1 </sub>&#x26; V<sub>2</sub>) and</claim-text>
+<claim-text>(ix) a hydraulic line <b>131</b> connecting between the open port of the shuttle valve (V<sub>s</sub>) and the hydraulic actuator cylinders for lifting the front longitudinal seating structure of the pool-deck lid off any elements of the pool cover and the underlying supporting top of the below-deck pool side wall beneath the element of the pool cover at a hydraulic pressure less than the predetermined threshold pressure (P<sub>T</sub>).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The pool deck lift system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the hydraulic/pneumatic means comprises at least one single action, short thrust, hydraulic cylinder mechanically coupled between the common longitudinal actuator beam of the cantilever bracket structure and a solid static inside surface of the housing trough for raising the statically seated, longitudinal seating structure off the top of the below-deck pool sidewall beneath the pool cover element having a piston head located for engaging an opposing planer face of the of the longitudinal actuator beam of the upwardly movably, cantilever bracket structure for raising, the seated, longitudinal seating structure slightly up off the top of the below-deck pool sidewall at full extension of each piston at an initial pressure (P<sub>1</sub>); and further including means for adjusting elevation the longitudinal seating structure is raised up off the top of the below-deck pool sidewall upon full extension of each piston head of the single action, short thrust hydraulic cylinder(s);
+<claim-text>wherein the hydraulic actuation control means for powering the deck-lid system and the pool cover system comprises in combination therewith:</claim-text>
+<claim-text>(i) reversible hydraulic motors means located in the housing trough coupled for rotating a cover drum and cable reels for extending and retracting the pool cover elements back and forth across the pool;</claim-text>
+<claim-text>(ii) a liquid reservoir remotely located at a power pack location;</claim-text>
+<claim-text>(iii) an electric hydraulic pump remotely located at a power pack location for pumping output hydraulic liquid from the reservoir at a subsequent pressure (P<sub>2</sub>) where P<sub>2 </sub>is greater than P<sub>1</sub>;</claim-text>
+<claim-text>(iv) a normally neutral, directional control valve hydraulically located at the power pack location, downstream from the hydraulic pump that drains to reservoir at a neutral position and directs pressurized hydraulic liquid to the single action, short thrust, hydraulic cylinder(s) and the reversible hydraulic motors means at a retraction position and an extension position;</claim-text>
+<claim-text>(v) a normally off, momentary, manual control switch remotely located at a control station for simultaneously turning on the hydraulic pump and switching the directional control valve from the neutral position, alternatively either to the retraction position or to the extension position;</claim-text>
+<claim-text>(vi) pressure sequencing valves (V<sub>1 </sub>and V<sub>2</sub>) in the housing trough hydraulically coupling between the directional control valve and the reversible hydraulic motors for directing output hydraulic liquid at subsequent pressure (P<sub>2</sub>) to the reversible motors means for powering rotation of the cover drum at the retraction position for retracting the pool cover elements from across uncovering the pool, and for powering rotation of the cable reel(s) at an extension position for extending the pool cover elements across covering the pool;</claim-text>
+<claim-text>(vii) a shuttle valve having an open port, located in the housing trough for hydraulically directing pressurized hydraulic output from the electric hydraulic pump alternatively directed to the pressure sequencing valves (V<sub>1</sub>) and the pressure sequencing (V<sub>2</sub>) by the normally neutral, directional control valve at the retraction position and the extension position;</claim-text>
+<claim-text>(viii) a hydraulic line hydraulically coupling between the open port of the shuttle valve and the hydraulic actuator cylinder(s) for tilting/lifting the pool-deck lid;</claim-text>
+</claim-text>
+<claim-text>whereby,
+<claim-text>upon switching on the hydraulic pump, and switching the directional control valve from the normally neutral position either to the retraction position or the extension position, using the momentary, normally off, manual, control switch, the hydraulic pump supplies hydraulic liquid at a pressure up to P<sub>1 </sub>solely to the single action, short thrust hydraulic cylinder raising the seated, front longitudinal seating structure of the pool-deck lid up, off the pool cover element and the top of the supporting below-deck pool sidewall beneath the pool cover element; and,</claim-text>
+<claim-text>upon each piston head reaching full extension at the pressure P<sub>1</sub>, hydraulic liquid pressure output supplied by the hydraulic pump increases to P<sub>2 </sub>whereupon either pressure sequencing valve (V<sub>2</sub>) or pressure sequencing valve (V<sub>2</sub>) directs hydraulic liquid to the reversible hydraulic motors means located in the housing trough couple for rotating the cover drum or cable reels for extending or retracting the pool cover elements from or across the pool, and</claim-text>
+<claim-text>upon releasing the momentary, normally off, manual, control switching off the hydraulic pump, returning the normally neutral, directional control valve to the neutral position allows hydraulic liquid in the single action, short thrust hydraulic cylinder(s) to drain to reservoir responsive to gravitational force whereupon the lifted, front, longitudinal lid seating structure of the pool-deck lid, supported by the cantilever bracket structure, descends and statically re-seats back onto a pool cover element and the top of the below-deck pool sidewall beneath that pool cover element for support.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The pool deck lift system of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the means for adjusting elevation the longitudinal seating structure is raised up off the top of the below-deck pool sidewall upon full extension of each piston head of the single action, short thrust hydraulic cylinder(s) comprises in combination;
+<claim-text>(ix) a threaded adjustment rod with a head axially aligned with each piston head of the single action, short thrust, hydraulic cylinder(s) helically screwing into and out of a threaded port through an opposing planer face of the longitudinal actuator beam, and</claim-text>
+<claim-text>(x) a lock nut screwing on each adjustment rod for locking the position of the head of each adjustment rod relative to each piston head of the single action, short thrust, hydraulic cylinder(s) for setting a particular elevation the longitudinal seating structure is lifted up off the top of the below-deck pool sidewall upon full extension of each piston in the single action, short thrust, hydraulic cylinder(s).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The pool deck lift system of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the means for adjusting elevation the longitudinal seating structure is lifted up off the top of the below-deck pool sidewall upon full extension of each piston head of the single action, short thrust hydraulic cylinder(s) comprises in combination;
+<claim-text>(x) a threaded adjustment rod with a head axially coaxially screwing into and out of the piston head of the single action, short thrust, hydraulic cylinder(s), and</claim-text>
+<claim-text>(ix) a lock nut screwing on each adjustment rod for locking a position of the head of each adjustment rod relative to the opposing planer face of the actuator beam of the upwardly movably, cantilever bracket structure for setting a particular elevation the longitudinal seating structure is raised up off the top of the below-deck pool sidewall upon full extension of each piston in the single action, short thrust, hydraulic cylinder(s).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The pool deck lift system of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the removable, modular deck-lid top plates have a particular thickness, and the elevation the longitudinal seating structure is raised up off the top of the below-deck pool sidewall upon full extension of each piston head of the single action, short thrust hydraulic cylinder(s) is less than the thickness of the deck-lid top plates such that bottom surfaces of the modular deck-lid top plates always remain below top surfaces of a pool deck surface surrounding the below deck trough housing upon full extension of each piston of the single action, short thrust, hydraulic cylinder(s).</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
