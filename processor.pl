@@ -12,11 +12,13 @@ binmode(STDIN, ':encoding(utf8)');
 binmode(STDOUT, ':encoding(utf8)');
 binmode(STDERR, ':encoding(utf8)');
 
-my @BLACK_LIST;
+my @BLACK_ARRAY;
+my %BLACK_HASH;
 my @FILES;
 
 my $OUTPUT_FOLDER = './output';
 my $OUTPUT_CLAIMS = 'claims.txt';
+my $OUTPUT_DESCRIPTION = 'description.txt';
 my $OUTPUT_KEYWORD = 'keyword.txt';
 my $OUTPUT_GRAMS = 'grams-keyword.txt';
 
@@ -30,7 +32,9 @@ close(FHD);
 # Read black word list to filter out
 open(FHD, "./config/black_list.txt") || die "$!\n";
 while ( my $line = <FHD> ) {
-    @BLACK_LIST = split(',', $line);
+    @BLACK_ARRAY = split(',', $line);
+    %BLACK_HASH = @BLACK_ARRAY;
+    $BLACK_HASH{$_}++ for (@BLACK_ARRAY);
 }
 close(FHD);
 
@@ -38,10 +42,24 @@ for my $file (@FILES) {
     # Parse XML file
     my $dom = XML::LibXML->new->parse_file($file);
 
-    # Add elements(each word) to hash & Save to text file
+    # Claims
     for my $node ($dom->findnodes('/us-patent-grant/claims/claim/claim-text/text()')) {
         $str = $node->toString;
         $claims = $claims.$str;
+
+        my $one_grams_ref = Text::Ngramize->new (typeOfNgrams => 'words', normalizeText => 1, sizeOfNgrams => 1)
+            ->getListOfNgrams (text => \$str);
+        my $two_grams_ref = Text::Ngramize->new (typeOfNgrams => 'words', normalizeText => 1, sizeOfNgrams => 2)
+            ->getListOfNgrams (text => \$str);
+
+        $h_one{$_}++ for (@{ $one_grams_ref });
+        $h_two{$_}++ for (@{ $two_grams_ref });
+    }
+    
+    # Description
+    for my $node ($dom->findnodes('/us-patent-grant/description/p/text()')) {
+        $str = $node->toString;
+        $description = $description.$str;
 
         my $one_grams_ref = Text::Ngramize->new (typeOfNgrams => 'words', normalizeText => 1, sizeOfNgrams => 1)
             ->getListOfNgrams (text => \$str);
@@ -57,6 +75,9 @@ for my $file (@FILES) {
     # Save claims
     print "Output claims...\n";
     output_str($claims, dirname($file), $OUTPUT_FOLDER, $OUTPUT_CLAIMS);
+    
+    print "Output description...\n";
+    output_str($description, dirname($file), $OUTPUT_FOLDER, $OUTPUT_DESCRIPTION);
 
     # Save keywords
     print "Output keyword...\n";
@@ -70,9 +91,9 @@ for my $file (@FILES) {
 
 sub match {
     my @array = split(' ', $_[0]);
-    my @checkList = @{$_[1]};
+    my %BLACK_HASH = %{$_[1]};
 
-    ($_ ~~ @checkList) && return 1 for (@array); 0
+    ($BLACK_HASH{$_}) && return 1 for (@array); 0
 }
 
 sub output_hash {
@@ -92,7 +113,7 @@ sub output_hash {
     print FHD "<count>\t\t<keyword>\n";
     for my $key ( sort { $h{$b} <=> $h{$a} } keys %h) {
         # Filter & Print
-        print (FHD "$h{$key}\t\t$key\n") && $count++ unless ($h{$key}==1 || match($key, \@BLACK_LIST));
+        print (FHD "$h{$key}\t\t$key\n") && $count++ unless ($h{$key}==1 || match($key, \%BLACK_HASH));
     }
 
     print FHD "There are $count keyword(s).\n";
